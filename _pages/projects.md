@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Projects I initiated or participated.
 nav: true
-display_categories: [work, fun]
+display_categories: [UWE Bristol, University College London, University of Bristol]
 horizontal: false
 ---
 <div class="projects">
