@@ -46,7 +46,7 @@ nav: true
 * Japan Society for the Promotion of Science (JSPS) - [Postdoctoral Fellow](https://www.jsps.go.jp/english/e-ippan/index.html) (2017 and 2021 - 2022)
 * JSPS Alumni Association of the UK and RoI, [Member](https://www.jsps.org/alumni_association/) (2017 - Present)
 * The 7th International Conference on Cyber Security, Privacy in Communication Networks (ICCS) 2021, [Publication & Technical Chair](https://iccs2021.iaasse.org/committees.html), (2021)
-* The 5th International Conference on Human Aspects of Information Security, Privacy and Trust, HAS 2017 - HCII 2017, [Board Member](http://2017.hci.international/has), (2017)
+* The 4th/5th International Conference on Human Aspects of Information Security, Privacy and Trust, HAS 2016/2017 - HCII 2016/2017, Board Member, [2016](http://2016.hci.international/has), [2017](http://2017.hci.international/has)
 * Expert Fellow of the "Security, Privacy, Identity and Trust Engagement NetworkPlus" [SPRITE+](https://spritehub.org/expert-fellows/), (2021 - Present)
 * The Internet of Things Council, [IoT Council](https://www.theinternetofthings.eu/panagiotis-andriotis), (2020 - Present)
 * Programme Committee Member/Reviewer for: ACM WebSci, AAAI ICSMW, STAST (ESORICS), SocInfo, ACM Eurosys, ACM Digital Threats: Research and Practice, Elsevier's: Journal of Information Security and Applications, Information Fusion, Computers and Security, Telematics and Informatics, Information Fusion, Future Generation Computer Systems, IEEE's Internet of Things Journal, Springer's International Journal of Information Security, and more.
