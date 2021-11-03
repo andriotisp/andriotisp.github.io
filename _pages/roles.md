@@ -35,7 +35,8 @@ nav: true
 ---
 
 * [Andrew McCarthy](https://people.uwe.ac.uk/Person/Andrew6Mccarthy), UWE Bristol, "Interactive methods for improving trust and reliability against adversarial attacks" (2019 - Present) - Director of Studies: [Dr Phil Legg](https://people.uwe.ac.uk/Person/PhilLegg)
-* [Candidate](https://www.uwe.ac.uk/research/postgraduate-research-study/how-to-apply/studentship-opportunities/transferable-and-ai-enabled-software-security-framework), UWE Bristol, "A transferable and AI-enabled software security framework", [link](https://www.uwe.ac.uk/research/postgraduate-research-study/how-to-apply/studentship-opportunities/transferable-and-ai-enabled-software-security-framework) - Director of Studies.
+* [Candidate](https://www.uwe.ac.uk/research/postgraduate-research-study/how-to-apply/studentship-opportunities/cyber-security-analytics), UWE Bristol, "Cyber security analytics in telecommunications systems: Managing security and service in complex real-time 5G networks" (2022 - 2025) - Director of Studies: [Dr Phil Legg](https://people.uwe.ac.uk/Person/PhilLegg)
+* [Candidate](https://www.uwe.ac.uk/research/postgraduate-research-study/how-to-apply/studentship-opportunities/transferable-and-ai-enabled-software-security-framework), UWE Bristol, "A transferable and AI-enabled software security framework", [link](https://www.uwe.ac.uk/research/postgraduate-research-study/how-to-apply/studentship-opportunities/transferable-and-ai-enabled-software-security-framework) (2022 - 2025) - Director of Studies.
 
 <br>
 <h3>Esteem and Service</h3>
