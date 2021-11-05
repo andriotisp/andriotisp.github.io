@@ -26,6 +26,7 @@ nav: true
 {% reference Mariconti2017 %}
 
 <div data-badge-details="right" data-badge-type="donut" data-arxiv-id="1612.04433" data-link-target="_blank" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<a href="https://plu.mx/plum/a/?doi=10.14722/ndss.2017.23353" class="plumx-details" data-site="plum" data-hide-when-empty="true"></a>
 
 ---
 
