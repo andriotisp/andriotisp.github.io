@@ -75,4 +75,4 @@ nav: true
 
 ---
 
-* Resume: Panagiotis Andriotis [Download CV](/al-folio/assets/pdf/panosCV.pdf)
+* Resume: Panagiotis Andriotis [Download CV](/al-folio/assets/pdf/PanosCV.pdf)
