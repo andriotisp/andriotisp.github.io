@@ -7,6 +7,18 @@ nav: true
 ---
 
 <br>
+<h3>Positions Held</h3>
+
+---
+
+* Visiting Researcher, Japan Society for the Promotion of Science - Postdoctoral Fellowship for Overseas Researchers [Standard Pathway](https://www.jsps.go.jp/english/e-ippan/index.html), National Institute of Informatics, Tokyo, Japan, [N.I.I.](https://www.nii.ac.jp/en/), (10/2021 - Present)
+* Senior Lecturer in Computer Forensics and Security, University of the West of England, [UWE](https://www.uwe.ac.uk/), Bristol, U.K., (09/2016 - Present)
+* Visiting Researcher, Japan Society for the Promotion of Science - Postdoctoral Fellowship for Overseas Researchers [Short-Term Pathway](https://www.jsps.go.jp/english/e-oubei-s/index.html) National Institute of Informatics, Tokyo, Japan, [N.I.I.](https://www.nii.ac.jp/en/), (03/2017 - 08/2017)
+* Research Associate, University College London, [UCL](https://www.ucl.ac.uk/), London, U.K., (03/2016 - 08/2016)
+* Cyber Security Research Expert, Enhanced Knowledge Transfer Partnership (KTP), De Montfort University (DMU) and Airbus, [DMU](https://www.dmu.ac.uk/home.aspx), Leicester, U.K., (11/2015 - 01/2016)
+* Research Assistant, University of Bristol, [UoB](https://www.bristol.ac.uk/), Bristol, U.K., (01/2012 - 06/2015)
+
+<br>
 <h3>Professional</h3>
 
 ---
