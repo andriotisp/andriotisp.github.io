@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>National Institute of Informatics,</p>
+    <p>National Institute of Informatics, Room 13.13</p>
     <p>2-1-2 Hitotsubashi,</p>
     <p>Chiyoda-ku, Tokyo,</p>
     <p>101-8430, Japan</p>
