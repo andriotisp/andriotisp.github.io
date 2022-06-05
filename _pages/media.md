@@ -292,3 +292,20 @@ nav: true
 </div>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-50309-3_20" class="plumx-details" data-site="plum" data-hide-when-empty="true"></a>
 
+---
+
+{% reference Andriotis2022has %}
+
+<span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-031-05563-8_14" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></span>
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1007/978-3-031-05563-8_14" data-link-target="_blank" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">
+</div>
+<a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-05563-8_14" class="plumx-details" data-site="plum" data-hide-when-empty="true"></a>
+
+---
+
+{% reference andy2022 %}
+
+<span class="__dimensions_badge_embed__" data-doi="10.3390/jcp2010010" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></span>
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.3390/jcp2010010" data-link-target="_blank" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">
+</div>
+<a href="https://plu.mx/plum/a/?doi=10.3390/jcp2010010" class="plumx-details" data-site="plum" data-hide-when-empty="true"></a>
