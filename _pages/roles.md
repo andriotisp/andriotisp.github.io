@@ -54,6 +54,7 @@ nav: true
 
 ---
 
+* ACM Digital Threats: Research and Practice (ACM DTRAP), [Associate Editor](https://dl.acm.org/journal/dtrap/editorial-board), (2022 - Present)
 * The 15th International AAAI Conference on Web and Social Media (ICWSM), ICMSM-2021, [Global Equity Chair](https://icwsm.org/2021/#organization) (2021)
 * Japan Society for the Promotion of Science (JSPS) - [Postdoctoral Fellow](https://www.jsps.go.jp/english/e-ippan/index.html) (2017 and 2021 - 2022)
 * JSPS Alumni Association of the UK and RoI, [Member](https://www.jsps.org/alumni_association/) (2017 - Present)
