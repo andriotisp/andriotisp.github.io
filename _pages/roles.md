@@ -37,7 +37,7 @@ nav: true
 ---
 
 * External Examiner Taught Programmes for [Cardiff Metropolitan University](https://www.cardiffmet.ac.uk/Pages/default.aspx), (2021 - Present)
-* UWE Bristol, BSc(Hons) Cyber Security and Digital Forensics [CSDF](https://courses.uwe.ac.uk/G4H4/cyber-security-and-digital-forensics), Programme Leader, (2019 - Present)
+* UWE Bristol, BSc(Hons) Cyber Security and Digital Forensics [CSDF](https://courses.uwe.ac.uk/G4H4/cyber-security-and-digital-forensics), Programme Leader, (2019 - 2022)
 * Organiser for "Mini DF-Seminars Series", UWEcyber, UWE Bristol  (2019 - 2020).
 * Affiliated with the *Computer Science Research Centre* [CSRC](https://www.uwe.ac.uk/research/centres-and-groups/csrc) and the *Financial Crime and Cyber Crime Research Network* [F3CRN](https://www.uwe.ac.uk/research/centres-and-groups/global-crime-justice-security/financial-crime-network) at UWE Bristol. 
 
@@ -47,7 +47,7 @@ nav: true
 ---
 
 * [Andrew McCarthy](https://people.uwe.ac.uk/Person/Andrew6Mccarthy), UWE Bristol, "Interactive methods for improving trust and reliability against adversarial attacks" (2019 - Present) - Director of Studies: [Dr Phil Legg](https://people.uwe.ac.uk/Person/PhilLegg)
-* [Candidate](https://www.uwe.ac.uk/research/postgraduate-research-study/how-to-apply/studentship-opportunities/transferable-and-ai-enabled-software-security-framework), UWE Bristol, "A transferable and AI-enabled software security framework", [link](https://www.uwe.ac.uk/research/postgraduate-research-study/how-to-apply/studentship-opportunities/transferable-and-ai-enabled-software-security-framework) (2022 - 2025) - Director of Studies.
+* [Sadegh Bamohabbat Chafjiri](https://scholar.google.com/citations?user=hoNk_uIAAAAJ&hl=en), UWE Bristol, "A transferable and AI-enabled software security framework", [link](https://www.uwe.ac.uk/research/postgraduate-research-study/how-to-apply/studentship-opportunities/transferable-and-ai-enabled-software-security-framework) (2022 - 2025) - Director of Studies.
 
 <br>
 <h3>Esteem and Service</h3>
