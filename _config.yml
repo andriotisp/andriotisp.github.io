@@ -8,7 +8,7 @@ middle_name:
 last_name: Andriotis
 email: panagiotis.andriotis@uwe.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Panagiotis Andriotis is an Assistant Professor in Forensic Computing ansSecurity and a GIAC Certified Forensic Examiner (GIAC GCFE, GIAC GASF).
+  Panagiotis Andriotis is an Assistant Professor in Forensic Computing and Security and a GIAC Certified Forensic Examiner (GIAC GCFE, GIAC GASF).
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -104,7 +104,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 14
+news_limit: 15
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

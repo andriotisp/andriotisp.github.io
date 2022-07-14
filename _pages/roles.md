@@ -23,12 +23,13 @@ nav: true
 
 ---
 
+* Higher Education Academy [SFHEA](https://www.advance-he.ac.uk/), Senior Fellow, (2022 - Present)
 * Institute of Electrical and Electronics Engineers [IEEE](https://www.ieee.org), Member, (2015 - Present)
 * Association for Computing Machinery [ACM](https://www.acm.org), Member, (2021 - Present)
 * Internet Society [ISOC](https://www.internetsociety.org), Member, (2016 - Present)
 * Global Information Assurance Certification - Advanced Smartphone Forensics [GIAC-GASF](https://www.credly.com/users/panagiotis-andriotis/badges) (ANSI ISO/IEC 17024:2012), (2020 - Present)
 * Global Information Assurance Certification - Certified Forensic Examiner [GIAC-GCFE](https://www.credly.com/users/panagiotis-andriotis/badges) (ANSI ISO/IEC 17024:2012), (2021 - Present)
-* Higher Education Academy [FHEA](https://www.advance-he.ac.uk/fellowship/fellowship), Fellow, (2018 - Present)
+* Higher Education Academy [FHEA](https://www.advance-he.ac.uk/fellowship/fellowship), Fellow, (2018 - 2022)
 * International Federation for Information Processing (IFIP) Working Group (WG) 11.12 - IFIP TC 11 Working Group 12 (Human Aspects of Information Security and Assurance) [ifip11.12](http://www.ifip11-12.org), Member, (2021 - Present)
 
 <br>

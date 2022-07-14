@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: PhD, FHEA, GCFE, GASF | Senior Lecturer in Computer Forensics and Security | JSPS Fellow | Digital Forensics Examiner | <a href="https://www.uwe.ac.uk">UWE Bristol</a></p>
+description: PhD, SFHEA, GCFE, GASF | Senior Lecturer in Computer Forensics and Security | JSPS Fellow | Digital Forensics Examiner | <a href="https://www.uwe.ac.uk">UWE Bristol</a></p>
 
 profile:
   align: right
