@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://andriotisp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://andriotisp.github.io/" rel="alternate" type="text/html" /><updated>2022-07-14T05:12:40+00:00</updated><id>https://andriotisp.github.io/feed.xml</id><title type="html">Panagiotis Andriotis</title><subtitle>Panagiotis Andriotis is an Assistant Professor in Forensic Computing and Security and a GIAC Certified Forensic Examiner (GIAC GCFE, GIAC GASF).
+</subtitle><entry><title type="html">Google Photos app data aggregation</title><link href="https://andriotisp.github.io/blog/2022/photos/" rel="alternate" type="text/html" title="Google Photos app data aggregation" /><published>2022-06-04T13:00:00+00:00</published><updated>2022-06-04T13:00:00+00:00</updated><id>https://andriotisp.github.io/blog/2022/photos</id><content type="html" xml:base="https://andriotisp.github.io/blog/2022/photos/"><![CDATA[<p>I like browsing my photos. I take photos with my Android phone, and I have also great shots from my Nikon and (currently) Fujifilm cameras. Photos in my opinion tell a story and they allow me to relive the events of the past. I am not a fan of selfies (this might seem contradictory if you see the pictures below, but I am telling the truth 😊) and I prefer to take pictures of places I visit. Hence, when I browse these files, I feel that I visit the places again. But the <strong>Photos app</strong> on Android has gone a little bit further regarding the re-enactment of the past. To some people the following article just mentions something they already knew. I wish that the proposed experiment will be enlightening for most of the readers.</p>
+
+<p>Let’s start!</p>
+
+<p>First, let me say I am aware of the privacy settings of my Google account, and I already know that <strong>location tracking and history</strong> are always on for my Android phone. I don’t know if you agree or not with this choice, but let’s say I am somehow OK with the trade-offs involved in this selection. So, if <strong>location tracking</strong> is on in your phone, (or even if it is not!) you might find the following steps to be an interesting experiment. BTW, I am using a “Pixel” device, so you might not have exactly the same results on your phone, after repeating the steps below.</p>
+
+<ul>
+    <li>Launch the “Google Photos” app and select the “Photos” tab.</li>
+    <li>Tap on any photo and then tap on the vertical ellipsis symbol $\vdots$. This will give you information about the picture. If “Save location” is enabled in your Camera settings, then you will see a map that shows where in the world this picture was taken. This information is embedded usually in the photo’s metadata.</li>
+    <li>So far, so good, I guess that most of the readers are already familiar with this.</li>
+    <li>If you tap on the map, then you will see a different view… The Photos app will show you a collection of photos in your device related to this event (probably captured the same day). If you are careful enough you might see that there might be some areas around, coloured in light blue/purple. These look like heatmaps. Any ideas what are these?</li>
+</ul>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/bl1-1400x663.png" srcset="    /assets/resized/bl1-480x227.png 480w,    /assets/resized/bl1-800x379.png 800w,    /assets/resized/bl1-1400x663.png 1400w,/ assets/img/bl1.png 3040w" />
+
+    </div>
+</div>
+
+<p><br /></p>
+
+<ul>
+    <li>Additionally, if you tap on some of these heatmaps, you will probably see a blue line connecting your photos!</li>
+</ul>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/bl2-1400x663.png" srcset="    /assets/resized/bl2-480x227.png 480w,    /assets/resized/bl2-800x379.png 800w,    /assets/resized/bl2-1400x663.png 1400w,/ assets/img/bl2.png 3040w" />
+
+    </div>
+</div>
+
+<p><br /></p>
+
+<ul>
+    <li>So, heatmaps show the geotagged photos you took in the area, and the blue line shows the path you took while taking these photos! Creepy enough? Maybe for some, but don’t forget! You have location services on; and this is your choice! Hence, if you think that this data aggregation is creepy, then you have to revisit the Privacy Settings in your Google account.</li>
+    <li>Let’s try a final thing. With a pinch-out gesture on the map, you will be able to see a heatmap of ALL geotagged photos (associated probably with the Camera app or your Google account)! This is a great example of data aggregation, and it can be quite spooky or intimidating for most users.</li>
+    <li>End of experiment. Did you know about this? How do you feel about it?</li>
+</ul>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/bl3-1400x663.png" srcset="    /assets/resized/bl3-480x227.png 480w,    /assets/resized/bl3-800x379.png 800w,    /assets/resized/bl3-1400x663.png 1400w,/ assets/img/bl3.png 3040w" data-zoomable="" />
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/bl4-1400x663.png" srcset="    /assets/resized/bl4-480x227.png 480w,    /assets/resized/bl4-800x379.png 800w,    /assets/resized/bl4-1400x663.png 1400w,/ assets/img/bl4.png 3040w" data-zoomable="" />
+
+    </div>
+</div>
+<div class="caption">
+    Oh, the Places You'll Go!
+</div>
+
+<p>How I felt when I realised this? First, I was surprised! Then I was sceptical about the amount of data that can be aggregated and visualised in a map (and these data are actually my real life)! After all, I realised that the principles we teach to our students (privacy and security) apply to our data as well… Finally, I recognised that despite the privacy controls and the efforts towards implementing security and privacy awareness initiatives, we are all still humans. We are (unfortunately) willing to eventually give up (or loosen) some rights we have, in order to receive a couple of benefits. Although I am sceptical about the amount of private data I willingly provide to big tech, I also enjoy seeing in a map the places I have been. I also enjoy following that blue line on the map, because this action enriches my remembrance experience.</p>
+
+<p>Is this experience enhancement worth the trouble? This is a tough question. And it explains why people are very confused about how big tech deals with their data. I would be mostly OK if only me and the company were the only entities that had access to this data. The big question then is: Who else has access to this data? Even if the data is anonymized, would you feel comfortable by the fact that these data can be used by third parties? Even better, would you like to know who has (or had) access to these data? Should you be able to know how this data was used and with whom they were shared? Would this kind of transparency make any difference in the end of the day? And finally, should we as individuals do something about that? The GDPR (and similar legislation) is a good first step towards awareness and control, but in my opinion, it is not enough. As we move more services (and aspects of our lives) to the Cloud(s), these kinds of questions and dilemmas will become more pressing.</p>
+
+<p>Takeaways and food for thought:</p>
+<ul>
+    <li>Do we need more transparency about how our data is used?</li>
+    <li>Do we need tiers that regulate how much of our data we allow to be shared and with whom?</li>
+    <li>How do we really feel (as consumers) about the migration to Cloud services and the proliferation of this computing paradigm?</li>
+<ul>
+
+Feel free to comment below if you already knew about this and how you feel about similar data aggregation practices.
+
+</ul></ul>]]></content><author><name></name></author><category term="Android" /><category term="Privacy" /><summary type="html"><![CDATA[My digital photo albums are becoming creepy]]></summary></entry><entry><title type="html">Sharing my experience and advice as a JSPS Fellow</title><link href="https://andriotisp.github.io/blog/2022/jsps/" rel="alternate" type="text/html" title="Sharing my experience and advice as a JSPS Fellow" /><published>2022-04-20T01:00:00+00:00</published><updated>2022-04-20T01:00:00+00:00</updated><id>https://andriotisp.github.io/blog/2022/jsps</id><content type="html" xml:base="https://andriotisp.github.io/blog/2022/jsps/"><![CDATA[<p>It’s been a while since I started thinking to write this short article to discuss my experience as a JSPS Fellow. So, if you are looking to do a Postdoc (for one or two years), and at the same time to experience life in Japan, then you should definitely visit the official <a href="https://www.jsps.go.jp/english/e-fellow/index.html">JSPS website</a> to see what you need to do to apply, and if this is something you would find financially beneficial in case you get selected. My experience was (and it still is…) 100% positive and (although I had to wait for a few months for my visa to be issued – due to COVID constrains) I would not change the months I spent in Tokyo (and Japan in general) with anything.</p>
+
+<p>First, let me say this: The scheme is <strong>competitive</strong>! I gathered stats from the JSPS site, and I estimated (considering acceptance rates from the last 5 years) that only one out of ten people get this scholarship (<em>average 10.26%</em>). So, be prepared to write a very good research proposal and be prepared to get rejected, because this is highly probable. As you should already know by now, getting rejected is part of the process in Academia, but then you will still have a nice proposal written that could be used as part of another application. The stats from the 5 last years (2018-2022) are as follows:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th style="text-align: center">1st call</th>
+      <th style="text-align: center">2nd call</th>
+      <th style="text-align: center">Average</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2022</td>
+      <td style="text-align: center">10.7%</td>
+      <td style="text-align: center">N/A</td>
+      <td style="text-align: center">10.7%</td>
+    </tr>
+    <tr>
+      <td>2021</td>
+      <td style="text-align: center">11.1%</td>
+      <td style="text-align: center">10.2%</td>
+      <td style="text-align: center">10.65%</td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td style="text-align: center">10.8%</td>
+      <td style="text-align: center">9.4%</td>
+      <td style="text-align: center">10.1%</td>
+    </tr>
+    <tr>
+      <td>2019</td>
+      <td style="text-align: center">10.6%</td>
+      <td style="text-align: center">9.4%</td>
+      <td style="text-align: center">10.0%</td>
+    </tr>
+    <tr>
+      <td>2018</td>
+      <td style="text-align: center">10.6%</td>
+      <td style="text-align: center">9.1%</td>
+      <td style="text-align: center">9.85%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<p>So, briefly, what you will need?</p>
+<ul>
+    <li>A (senior) researcher (from a Japanese research entity) that will act as your host.</li>
+    <li>A good research plan (and maybe some prior experience working with a group in Japan – I believe this helped me a lot to get 2 JSPS fellowships, the short-term one and the standard one).</li>
+    <li>An open mind about the cultural differences you will experience as soon as you get selected (I definitely say this with a positive tone, although there are some aspects in the Japanese hierarchy/bureaucracy that might surprise you, e.g., honorifics).</li>
+    <li>Flexibility and ability to live and work in small and usually crowded spaces (that was not the case for me though in 2021-2022, as I did my fellowship during the COVID restrictions, which allowed me to work in a less crowded office due to the restrictions in movement).</li>
+</ul>
+
+<p>Let’s talk now about my relationship with the Japanese Academia. As a PhD candidate I was looking for different ways to expand my research network and add experiences in my life that would allow me to feel good, and less stressed. I accidentally saw a listing somewhere about an Internship for International Researchers to visit and conduct a short research activity with groups in Japan in the National Institute of Informatics, Tokyo. I was not planning to visit Japan as it was not a top destination in my travel bucket list (which, as I found out later, was the biggest mistake: visiting Japan as a tourist should be your No1 priority!). So, I applied, and I got this Internship. Twice! Yes, this is how much I liked the place. Since then, I have visited Japan 3 more times, 2 as a JSPS Fellow and 1 under another International Exchange Research programme.</p>
+
+<p>During the COVID era, travelling was not easy and there were strict rules for entering the country. Note that I had to self-isolate in hotel for 14 days when I arrived! I have heard about cases of Fellows that were waiting to get their visa for a year! I was waiting for about 5 months. So, I would advise you to consider that maybe it would be a good idea to have a backup plan about the sources of your income in case you get selected, because you might have to wait for some months before you get your visa and be allowed to enter the country (under any COVID restrictions). As soon as you get selected and when you start your fellowship, you are not supposed to work elsewhere, and you are expected to devote your time in conducting your research in Japan. In my case, I planned this visit to be my (unpaid) sabbatical from my workplace (a University in the U.K.). Sometimes I feel that, financially, this was not a good choice, but at the end of the day, I preferred to sacrifice financial gains aiming to acquire balance in my life, and rethink about the future, my priorities, and do what I really wanted to do that period; to spend my time doing reviews, writing papers, and reading about exciting research (while trying to do mine!).</p>
+
+<p>Another piece of advice would be to ensure you know the researcher that will host you. You will spend a year or two in that lab, and you need to understand how people work in that environment. My host and I were familiar with each other since my first visit as an intern to that Institute. Thus, I was extremely aware of the type of collaboration we would have. I am very grateful for the opportunities I had to work in a very relaxed environment, and to follow my research agenda, while getting unlimited support from my host and his Institute when I requested it. Depending on the period, you might have the chance to work with other researchers too, and you might also have the chance to meet other people. That was the case the previous times I visited, but in 2021-2022 during the COVID era, it is obvious that opportunities for face-to-face interactions in the office were limited. I guess that Institutes/Universities have implemented their own rules following some kind of a generic guidance about how often they expect people to visit their offices. However, I never felt there was some kind of restriction in my case, because I was trying to stick to the rules (social distancing, wearing mask when necessary, using hand sanitizers, temperature checking, etc.).</p>
+
+<p>Additionally, people might feel anxious about the work culture in Japan. We have all seen videos with people being stuck in the trains in Tokyo during peak hours… I rarely experienced this situation because I avoid travelling during the rush hour. So, if you are flexible with hours, then you will not have this kind of problem. However, sometimes trains can also get very busy in random hours. But if you have experience living in a big city then you probably know how things work. The only thing you should be aware of is that you don’t want to lose the last train. Taxis are quite expensive and transportation options during the night are limited (in Tokyo). However, there are plenty of options to spend your time afterhours and wait for the first train of the next day! Tokyo (and Japan in general) is considered as one of the safest places in the world. To return to my initial thoughts, I was talking about the work culture in Japan, and I totally believe that this fellowship allows for some flexibility. I never felt I had to be in my office certain hours a day. You are expected to work full time, but at the same time there is flexibility. There are days in the week that I felt I wanted to stay 10 hours in the office, and some other days I worked only for 6 hours because I was very productive. This is your fellowship, and you manage your own time. I guess that flexibility is related with the norms set by the research centre and the host advisor. So, don’t worry a lot about work culture because I believe that this scheme allows you to be flexible. I should also not forget to mention that there are numerous official national holidays in Japan, so you will definitely have a lot of opportunities to travel within the year.</p>
+
+<p>Traveling! As a visa holder you will not have unfortunately the opportunity to use the super affordable <a href="https://japanrailpass.net/en/">JR Rail Pass</a> but there are some train passes for residents with foreign passports. There will be opportunities for travel during the year especially when you can combine a national holiday with the weekend, so before you start your fellowship check if the calendar allows for these 3-4 days consecutive days of rest. The most famous season for traveling is the Golden Week (early May), when almost everyone in Japan is going somewhere for vacation! Every weekend is also a good opportunity to travel. Seasons in Japan are well-defined, and you will be amazed about the natural beauty of this country. Mountains, trekking, onsens (natural hot springs), theme parks, shopping, amazing food are just some perks of life in Japan. However, traveling is expensive (I am talking about the shinkansen, i.e., the bullet train). Hotels are great (usually rooms are small though) and you can find a variety of prices. I personally used my Airline Alliance miles a few times I flew, so travelling can also be affordable. Save some money and take advantage of these opportunities to travel in the country. It is a great experience. Sometimes you might feel that you spend all the money of your fellowship, and you are not saving. Well, we only have one life to live! Best time to travel is during November (autumn leaves), April (cherry blossoms), May (very good weather conditions). June is the rainy month in Japan (up to early-July) thus is not a good time to travel for fun, unless you enjoy rain. July and August are usually very hot, but I don’t mind. It depends on your stamina and how you can handle hot weather conditions. September is also not a good time in general to travel (typhoon season).</p>
+
+<p>Financially, this is an OK situation. You will get a reasonable monthly stipend and your host is also eligible to apply for additional funding to assist you with your research (equipment, conferences, etc.). You will have to pay monthly approx. JPY19K for your pension and National Insurance and approx. JPY8.5K for commuting. Renting a room can be tricky (especially if you are new to the area) so it is recommended to ask your host to assist you with accommodation. Expect that you will find numerous (basically old) buildings offering accommodation for foreigners (shared, guest houses, studio apartments, etc.) and the prices range dramatically. In general, if you choose to live in a suburban area in the metropolis, you will find reasonably prized places (I am paying JPY60K a month for a studio apartment in Heiwadai, 35-40 minutes commute to my workplace). But accommodation in general can be tricky (fees, etc.), so spend considerable time reviewing offers and looking the “fine print”. You will have no problems finding food in Tokyo because there are convenience stores (open 24h) everywhere and they usually offer lots of choices for food. Plus, there are always a lot of stores next to any central metro station in Tokyo (some of them are also open 24h or they stay open until… 26:00 which means 02:00 am the next day). Some places (like the one I am staying) do not include bills in the rent. I do not consume a lot of power/gas/water since I am spending a lot of time in the office, so I could say I am spending approx. JPY10K for the bills per month. I don’t think I forgot anything, so in general you should expect that you will spend approx. JPY100K monthly as living expenses. That leaves you with JPY260K for your food and leisure. That’s approx. JPY8.5K per day. Fruit and vegetables are super expensive in Japan (e.g., JPY600 for 2 apples is considered to be a normal price) but at the same time you will find products that are very reasonably priced (e.g., JPY130 for 4-5 bananas). Additionally, if you decide that you are OK with eating out every day, an average price in a ramen shop is approx. JPY850. Fast food is not very expensive (especially if you are using apps and coupons), but pizza can be a luxury! Generally speaking, if you do not spend a lot of money eating out in expensive places, you can actually save money in a year. I was speaking with other Fellows who left the country after they finished their scholarships, and they were looking for cheap ways to transfer money to their countries. Additionally, those prices are final, since you do not tip in Japan. You always get high levels of service without the need to tip anyone! Actually, tipping might be seen as a rude thing to do here!</p>
+
+<p>I can talk for hours about my experience, and I am actually sad that it will end in a few months. I believe that it is not very difficult to find a decent job here after you finish your fellowship, but you really need to be able to speak the language to increase your chances to get hired, in case you choose to remain. My final thoughts and advice are as follows.</p>
+
+<ul>
+    <li>Try to learn a little bit of Japanese before you come here. People in general do not speak English or they do not feel comfortable speaking English (which to me makes perfect sense: I prefer to speak Greek when I am in Greece!). I do not speak Japanese, but I am doing decent attempts to learn a bit of it. In your work place you will not have issues discussing/communicating in English, but out there, things are different. However, even if you don’t speak Japanese (like me) you will have no issues. The only thing you will miss is probably interaction with locals (in a pub, izakaya, etc.) that don’t speak your language.</li>
+    <li>Services can be quite pricey. You will realise for example that if you want to visit a hair stylist, you will need to pay a lot of money (JPY6-7K at least). A decent barber shop costs around JPY2.5K – cut only 😊. Gym memberships are also expensive. My running station is usually JPY5K a month, but I am using it very frequently and I also use the showers there, resulting in less water and gas consumption in my studio.</li>
+    <li>You might feel a little bit alienated sometimes. Additionally, I don’t know how life would be if you had to live in that stipend and you also had to support your family. So, my opinions expressed here are from the “solo traveller” perspective.</li> 
+    <li>Do not travel to Japan if you have experienced an earthquake in the past and you felt that it was the most scaring or traumatic thing you went through. So far, after 5-6 months I felt 11 earthquakes with one being a very scary one (M7.3 in Fukushima). Buildings are very safe and well-constructed, so you should not worry about this a lot, but if the whole situation makes you feel unpleasant, then do not make the move to come here; the only thing that is 100% sure is that you will experience earthquakes very often.</li>
+    <li>I did not talk about the Japanese people so far. This is my personal opinion, and I am 100% biased, but I absolutely respect how this society manages to keep every public infrastructure clean and functional, how they manage to have a very organised megacity (30M+ people live in the Tokyo metropolitan area) and how well they live with each other in small spaces. People seem to be respectful and polite, and they usually follow certain social etiquettes. This can be intimidating for some people, but for me it works like a charm. Again, I have not lived as a “salaryman” having to be in my office at 09:00, following certain rules and hierarchy, and I am talking about my experience as a JSPS fellow, being flexible and having the ability to work from home, in the office, afterhours or during the weekend if I want. If I was working as a “normal” employee, things might have been different. So, before you come here (even as a tourist) try to learn and follow the etiquette. It will make your life easier.</li>
+    <li>You will get the chance to participate in outreach activities. I look forward to visiting a High School in June and talk to young Japanese people about my field of scholarship and research!</li>
+</ul>
+
+<p><br /></p>
+
+<p>I am sharing a few pictures with you in this article, and I wish you will enjoy your time if you are lucky enough to get selected as a JSPS Fellow. You should feel proud for this achievement given that only 10% of the applicants are able to get the scholarship. So, enjoy the (learning) experience and I hope you will like it as much I did.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/DSCF1116-1400x933.JPG" srcset="    /assets/resized/DSCF1116-480x320.JPG 480w,    /assets/resized/DSCF1116-800x533.JPG 800w,    /assets/resized/DSCF1116-1400x933.JPG 1400w,/ assets/img/DSCF1116.JPG 6240w" data-zoomable="" />
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/DSCF1351-1400x933.JPG" srcset="    /assets/resized/DSCF1351-480x320.JPG 480w,    /assets/resized/DSCF1351-800x533.JPG 800w,    /assets/resized/DSCF1351-1400x933.JPG 1400w,/ assets/img/DSCF1351.JPG 6240w" data-zoomable="" />
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/DSCF1429-1400x933.JPG" srcset="    /assets/resized/DSCF1429-480x320.JPG 480w,    /assets/resized/DSCF1429-800x533.JPG 800w,    /assets/resized/DSCF1429-1400x933.JPG 1400w,/ assets/img/DSCF1429.JPG 6240w" data-zoomable="" />
+
+    </div>
+</div>
+<div class="caption">
+    Make sure you bring your camera with you. Japan has a lot to offer. A visit to Kyoto during the cherry blossom session is a must!
+</div>]]></content><author><name></name></author><category term="Academia" /><category term="Fellowship," /><category term="Year" /><category term="Abroad" /><summary type="html"><![CDATA[What is it like to live in Tokyo as a JSPS Research Fellow?]]></summary></entry><entry><title type="html">Bu-Dash, A Universal and Dynamic Graphical Password Scheme</title><link href="https://andriotisp.github.io/blog/2022/budashb/" rel="alternate" type="text/html" title="Bu-Dash, A Universal and Dynamic Graphical Password Scheme" /><published>2022-02-06T01:00:00+00:00</published><updated>2022-02-06T01:00:00+00:00</updated><id>https://andriotisp.github.io/blog/2022/budashb</id><content type="html" xml:base="https://andriotisp.github.io/blog/2022/budashb/"><![CDATA[<p>Knowledge-based user authentication on mobile devices is gradually being replaced by biometric methods, as trustworthy sensors become available and affordable. However, Personal Identification Numbers, and graphical password schemes like the Android Pattern Unlock are fundamental assets for maintaining security and usability. They are the primary means to be utilized before setting up biometric authentication (e.g., Face ID) and they constitute an auxiliary/backup method to be used in case the biometric sensor on the device fails. Passcodes need to be memorable in order to be usable, therefore users tend to choose easy to guess passwords, compromising security. The Android Pattern Unlock is a great example of a popular and usable graphical password scheme which can be easily compromised because of common human behavioristic traits that are evident and predominant when users are called to form their passcodes. The popularity of this password scheme has led researchers to propose adjustments and variations that enhance security but maintain the familiar user interface. Nevertheless, prior work demonstrated that improving security while preserving usability remains frequently a hard task. In our paper (to be presented in <a href="https://2022.hci.international/">HCI International 2022</a> end of June 2022) we propose a novel graphical password scheme built on the foundations of the well-accepted Android Pattern Unlock method, which is usable, inclusive, and robust against shoulder surfing and smudge attacks. Our scheme, features a dynamic user interface that mutates every time a user swipes the screen. Our pilot studies illustrate that “Bu-Dash” attracts positive user acceptance rates and maintains high usability levels.</p>
+
+<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is &quot;Bu-Dash&quot;. We will present the results of a couple of user studies about it in HCII 2022. <a href="https://t.co/f70GL9fh8m">pic.twitter.com/f70GL9fh8m</a></p>&mdash; Panos Andriotis (@PanosAndriotis) <a href="https://twitter.com/PanosAndriotis/status/1490287976810958849?ref_src=twsrc%5Etfw">February 6, 2022</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<p>A <a href="/assets/pdf/hcii22andrio.pdf">preprint</a> is available.</p>
+
+<p>Cite as: “Andriotis, P., Kirby, M., Takasu, A. (2022). Bu-Dash: A Universal and Dynamic Graphical Password Scheme. In: Moallem, A. (eds) HCI for Cybersecurity, Privacy and Trust. HCII 2022. Lecture Notes in Computer Science, vol 13333. Springer, Cham. https://doi.org/10.1007/978-3-031-05563-8_14”</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/budash-800x259.png" srcset="    /assets/resized/budash-480x155.png 480w,    /assets/resized/budash-800x259.png 800w,/ assets/img/budash.png 1325w" />
+
+    </div>
+</div>
+<div class="caption">
+    It's not the "Squid Games". It's the "Bu-Dash" scheme. 
+</div>]]></content><author><name></name></author><category term="Research" /><category term="Security," /><category term="Authentication" /><summary type="html"><![CDATA[Presenting Bu-Dash, a novel graphical password scheme]]></summary></entry><entry><title type="html">Circles and triangles and squares, et cetera</title><link href="https://andriotisp.github.io/blog/2021/budash/" rel="alternate" type="text/html" title="Circles and triangles and squares, et cetera" /><published>2021-11-11T01:00:00+00:00</published><updated>2021-11-11T01:00:00+00:00</updated><id>https://andriotisp.github.io/blog/2021/budash</id><content type="html" xml:base="https://andriotisp.github.io/blog/2021/budash/"><![CDATA[<p>Before the “Squid Game” was even filmed, <strong>Bu-Dash</strong> was employed in our mobile devices as a new authentication method. More details in a few weeks.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/budash-800x259.png" srcset="    /assets/resized/budash-480x155.png 480w,    /assets/resized/budash-800x259.png 800w,/ assets/img/budash.png 1325w" />
+
+    </div>
+</div>
+<div class="caption">
+    It's not the "Squid Games". It's the "Bu-Dash" scheme. 
+</div>]]></content><author><name></name></author><category term="Research" /><category term="Usability" /><summary type="html"><![CDATA[Bu-dash is a novel graphical password scheme]]></summary></entry><entry><title type="html">Welcome to my new personal space</title><link href="https://andriotisp.github.io/blog/2021/start/" rel="alternate" type="text/html" title="Welcome to my new personal space" /><published>2021-10-23T12:00:00+00:00</published><updated>2021-10-23T12:00:00+00:00</updated><id>https://andriotisp.github.io/blog/2021/start</id><content type="html" xml:base="https://andriotisp.github.io/blog/2021/start/"><![CDATA[<p>Theros: /ˈθe.ɾos/, is a Greek world for “summer”. <br />I like to use it also as a nickname. <br /></p>
+
+<p>This site is my first attempt to use <a href="http://jekyllrb.com">jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="Welcome" /><summary type="html"><![CDATA[My first (test) post in the blog]]></summary></entry></feed>
