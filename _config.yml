@@ -8,7 +8,7 @@ middle_name:
 last_name: Andriotis
 email: panagiotis.andriotis@uwe.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Panagiotis Andriotis is an Assistant Professor in Forensic Computing and Security and a GIAC Certified Forensic Examiner (GIAC GCFE, GIAC GASF).
+  Panagiotis Andriotis is an Assistant Professor in Computer Science and a GIAC Certified Forensic Examiner (GIAC GCFE, GIAC GASF).
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -60,7 +60,7 @@ quora_username: # your Quora username
 publons_id: I-9821-2019 # your ID on Publons
 research_gate_profile: Panagiotis-Andriotis-2 # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://people.uwe.ac.uk/Person/PanagiotisAndriotis # work page URL
+work_url: https://andriotisp.github.io/ # work page URL
 keybase_username: # your keybase user name
 wikidata_id: Q50861635 # your wikidata id
 dblp_url: https://dblp.org/pid/124/8353.html # your DBLP profile url

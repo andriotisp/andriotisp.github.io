@@ -11,8 +11,9 @@ nav: true
 
 ---
 
-* Visiting Researcher, Japan Society for the Promotion of Science - Postdoctoral Fellowship for Overseas Researchers [Standard Pathway](https://www.jsps.go.jp/english/e-ippan/index.html), National Institute of Informatics, Tokyo, Japan, [N.I.I.](https://www.nii.ac.jp/en/), (10/2021 - Present)
-* Senior Lecturer in Computer Forensics and Security, University of the West of England, [UWE](https://www.uwe.ac.uk/), Bristol, U.K., (09/2016 - Present)
+* Lecturer in Computer Science, Flying Faculty at the [University of Birmingham](https://www.birmingham.ac.uk), Birmingham, U.K., (09/2022 - Present)
+* Visiting Researcher, Japan Society for the Promotion of Science - Postdoctoral Fellowship for Overseas Researchers [Standard Pathway](https://www.jsps.go.jp/english/e-ippan/index.html), National Institute of Informatics, Tokyo, Japan, [N.I.I.](https://www.nii.ac.jp/en/), (10/2021 - 07/2022)
+* Senior Lecturer in Computer Forensics and Security, University of the West of England, [UWE](https://www.uwe.ac.uk/), Bristol, U.K., (09/2016 - 08/2022)
 * Visiting Researcher, Japan Society for the Promotion of Science - Postdoctoral Fellowship for Overseas Researchers [Short-Term Pathway](https://www.jsps.go.jp/english/e-oubei-s/index.html) National Institute of Informatics, Tokyo, Japan, [N.I.I.](https://www.nii.ac.jp/en/), (03/2017 - 08/2017)
 * Research Associate, University College London, [UCL](https://www.ucl.ac.uk/), London, U.K., (03/2016 - 08/2016)
 * Cyber Security Research Expert, Enhanced Knowledge Transfer Partnership (KTP), De Montfort University (DMU) and Airbus, [DMU](https://www.dmu.ac.uk/home.aspx), Leicester, U.K., (11/2015 - 01/2016)
@@ -40,15 +41,14 @@ nav: true
 * External Examiner Taught Programmes for [Cardiff Metropolitan University](https://www.cardiffmet.ac.uk/Pages/default.aspx), (2021 - Present)
 * UWE Bristol, BSc(Hons) Cyber Security and Digital Forensics [CSDF](https://courses.uwe.ac.uk/G4H4/cyber-security-and-digital-forensics), Programme Leader, (2019 - 2022)
 * Organiser for "Mini DF-Seminars Series", UWEcyber, UWE Bristol  (2019 - 2020).
-* Affiliated with the *Computer Science Research Centre* [CSRC](https://www.uwe.ac.uk/research/centres-and-groups/csrc) and the *Financial Crime and Cyber Crime Research Network* [F3CRN](https://www.uwe.ac.uk/research/centres-and-groups/global-crime-justice-security/financial-crime-network) at UWE Bristol. 
 
 <br>
 <h3>Doctorate Advisor</h3>
 
 ---
 
-* [Andrew McCarthy](https://people.uwe.ac.uk/Person/Andrew6Mccarthy), UWE Bristol, "Interactive methods for improving trust and reliability against adversarial attacks" (2019 - Present) - Director of Studies: [Dr Phil Legg](https://people.uwe.ac.uk/Person/PhilLegg)
-* [Sadegh Bamohabbat Chafjiri](https://scholar.google.com/citations?user=hoNk_uIAAAAJ&hl=en), UWE Bristol, "A transferable and AI-enabled software security framework", [link](https://www.uwe.ac.uk/research/postgraduate-research-study/how-to-apply/studentship-opportunities/transferable-and-ai-enabled-software-security-framework) (2022 - 2025) - Director of Studies.
+* [Andrew McCarthy](https://people.uwe.ac.uk/Person/Andrew6Mccarthy), UWE Bristol, "Interactive methods for improving trust and reliability against adversarial attacks" (2019 - Present) - Director of Studies: [Dr Phil Legg](https://people.uwe.ac.uk/Person/PhilLegg) (Now external advisor)
+* [Sadegh Bamohabbat Chafjiri](https://scholar.google.com/citations?user=hoNk_uIAAAAJ&hl=en), UWE Bristol, "A transferable and AI-enabled software security framework", [link](https://www.uwe.ac.uk/research/postgraduate-research-study/how-to-apply/studentship-opportunities/transferable-and-ai-enabled-software-security-framework) (2022 - 2025) - previously: Director of Studies - now: external advisor.
 
 <br>
 <h3>Esteem and Service</h3>
@@ -59,7 +59,7 @@ nav: true
 * The 15th International AAAI Conference on Web and Social Media (ICWSM), ICMSM-2021, [Global Equity Chair](https://icwsm.org/2021/#organization) (2021)
 * Japan Society for the Promotion of Science (JSPS) - [Postdoctoral Fellow](https://www.jsps.go.jp/english/e-ippan/index.html) (2017 and 2021 - 2022)
 * JSPS Alumni Association of the UK and RoI, [Member](https://www.jsps.org/alumni_association/) (2017 - Present)
-* The 7th International Conference on Cyber Security, Privacy in Communication Networks (ICCS) 2021, [Publication & Technical Chair](https://iccs2021.iaasse.org/committees.html), (2021)
+* The 7th/8th International Conference on Cyber Security, Privacy in Communication Networks (ICCS) 2021/2022, [Publication & Technical Chair](https://iccs2021.iaasse.org/committees.html), (2021/2022)
 * The 4th/5th International Conference on Human Aspects of Information Security, Privacy and Trust, HAS 2016/2017 - HCII 2016/2017, Board Member, [2016](http://2016.hci.international/has), [2017](http://2017.hci.international/has)
 * Expert Fellow of the "Security, Privacy, Identity and Trust Engagement NetworkPlus" [SPRITE+](https://spritehub.org/expert-fellows/), (2021 - Present)
 * The Internet of Things Council, [IoT Council](https://www.theinternetofthings.eu/panagiotis-andriotis), (2020 - Present)

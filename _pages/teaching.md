@@ -2,15 +2,15 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: I currently teach various modules at UWE Bristol for the "BSc Cyber Security and Digital Forensics" and "MSc Cyber Security" courses.
+description: I joined UoB on September 2022.
 nav: true
 ---
 
 <br>
 <h3>Academic Year 2021 - 2022</h3>
 
-*This academic year (2021 - 2022) I do not teach any modules. <br>
-I am on sabbatical leave as a JSPS Fellow working at the National Institute of Informatics in Tokyo.*
+*During this academic year (2021 - 2022) I din not teach any modules. <br>
+I was on sabbatical leave as a JSPS Fellow working at the National Institute of Informatics in Tokyo.*
 
 ---
 
@@ -20,7 +20,13 @@ I am on sabbatical leave as a JSPS Fellow working at the National Institute of I
 
 ---
 
-09/2016 - Present: <br>
+09/2022 - Present: <br>
+
+To be confirmed
+
+---
+
+09/2016 - 09/2021: <br>
 [BSc Cyber Security and Digital Forensics](https://courses.uwe.ac.uk/G4H4/cyber-security-and-digital-forensics) (UWE Bristol).
 
 UFCFP4-30-1: Computer Crime and Digital Evidence (Lead) <br>
