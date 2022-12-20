@@ -22,7 +22,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Lecturer in Computer Science at the [University of Birmingham](https://www.birmingham.ac.uk/index.aspx), and a [GIAC](https://www.giac.org/) Certified Forensic Examiner [(GIAC GCFE, GIAC GASF)](https://www.credly.com/users/panagiotis-andriotis/badges). I carry out interdisciplinary research into Cyber Security, Human Factors, and Mobile and Ubiquitous Computing. I teach Computer Science, Cyber Security and Digital Forensics topics.
+I am a Lecturer in Computer Science at the [University of Birmingham](https://www.birmingham.ac.uk/index.aspx), a Senior Fellow of the Higher Education Academy (SFHEA), and a [GIAC](https://www.giac.org/) Certified Forensic Examiner [(GIAC GCFE, GIAC GASF)](https://www.credly.com/users/panagiotis-andriotis/badges). I carry out interdisciplinary research into Cyber Security, Human Factors, and Mobile and Ubiquitous Computing. I teach Computer Science, Cyber Security and Digital Forensics topics.
 
 [//]: # I am affiliated with the [Computer Science Research Centre](https://www.uwe.ac.uk/research/centres-and-groups/csrc) and the [Financial Crime and Cyber Crime Research Network](https://www.uwe.ac.uk/research/centres-and-groups/global-crime-justice-security/financial-crime-network) at UWE Bristol. This academic year (2021-2022) I will be on sabbatical leave, working as a [JSPS Fellow](https://www.jsps.go.jp/english/e-ippan/index.html) at the [National Institute of Informatics](https://www.nii.ac.jp/en/), Tokyo, Japan. 
 

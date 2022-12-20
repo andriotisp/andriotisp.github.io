@@ -318,3 +318,17 @@ nav: true
 <div data-badge-details="right" data-badge-type="donut" data-doi="10.1080/17439884.2022.2095568" data-link-target="_blank" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">
 </div>
 <a href="https://plu.mx/plum/a/?doi=10.1080/17439884.2022.2095568" class="plumx-details" data-site="plum" data-hide-when-empty="true"></a>
+
+{% reference bdext2022 %}
+
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s10207-022-00642-2" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></span>
+<div data-badge-details="right" data-badge-type="donut" data-doi="https://doi.org/10.1007/s10207-022-00642-2" data-link-target="_blank" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">
+</div>
+<a href="https://plu.mx/plum/a/?doi=https://doi.org/10.1007/s10207-022-00642-2" class="plumx-details" data-site="plum" data-hide-when-empty="true"></a>
+
+{% reference andy2023 %}
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.jisa.2022.103398" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></span>
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1016/j.jisa.2022.103398" data-link-target="_blank" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">
+</div>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.jisa.2022.103398" class="plumx-details" data-site="plum" data-hide-when-empty="true"></a>
