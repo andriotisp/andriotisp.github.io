@@ -2,14 +2,14 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: I joined UoB on September 2022.
+description: I am currently a Flying Faculty at the University of Birmingham (visiting our campus at Dubai, U.A.E., quite often).
 nav: true
 ---
 
 <br>
 <h3>Academic Year 2021 - 2022</h3>
 
-*During this academic year (2021 - 2022) I din not teach any modules. <br>
+*During this academic year (2021 - 2022) I did not teach any modules. <br>
 I was on sabbatical leave as a JSPS Fellow working at the National Institute of Informatics in Tokyo.*
 
 ---
@@ -21,8 +21,15 @@ I was on sabbatical leave as a JSPS Fellow working at the National Institute of 
 ---
 
 09/2022 - Present: <br>
+[BSc Computer Science](https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science.aspx) (University of Birmingham) <br>
+[MSc Data Science](https://www.birmingham.ac.uk/postgraduate/courses/taught/computer-science/data-science.aspx)
 
-To be confirmed
+30432: LI Security and Networks (DB Lead and Instructor) <br>
+30427, 32594: LI Team Project (AI) (DB Lead and Instructor)<br>
+32245: LM Storing and Managing Data (DB Lead and Instructor)<br>
+30436: LH Advanced Networking (DB Lead and Instructor)<br>
+26581, 26587, 26586, 30433: Computer Science Project 2022-23 (Supervisor)<br>
+24055: LI Computer Science Industrial Placement (Supervisor)<br>
 
 ---
 
