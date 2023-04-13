@@ -11,6 +11,7 @@ nav: true
 
 ---
 
+* Visiting Lecturer, at the [National Institute of Informatics](https://www.nii.ac.jp/en/), Tokyo, Japan, (04/2023 - 03/2024)
 * Lecturer in Computer Science, Flying Faculty at the [University of Birmingham](https://www.birmingham.ac.uk), Birmingham, U.K., (09/2022 - Present)
 * Visiting Researcher, Japan Society for the Promotion of Science - Postdoctoral Fellowship for Overseas Researchers [Standard Pathway](https://www.jsps.go.jp/english/e-ippan/index.html), National Institute of Informatics, Tokyo, Japan, [N.I.I.](https://www.nii.ac.jp/en/), (10/2021 - 07/2022)
 * Senior Lecturer in Computer Forensics and Security, University of the West of England, [UWE](https://www.uwe.ac.uk/), Bristol, U.K., (09/2016 - 08/2022)
