@@ -12,13 +12,16 @@ nav: true
 
 ---
 
-
+* 22/05/2023: *"Digital Forensic Science links science and crime"*, <br> Article in [The Time of India](https://epaper.timesgroup.com/article-share?article=22_05_2023_554_011_cap_TOI) - Education Times, Print Edition.
+* 14/03/2023: *"Artificial Intelligence in Education - AIED"*, <br> Article in [Medium](https://abbasw555.medium.com/artificial-intelligence-in-education-aied-812bae2c5009).
 * 25/02/2021: *"To Allow, or Deny?"*, <br>Article in [Faculti](https://faculti.net/to-allow-or-deny/) about our work on Android permissions.
 * 10/04/2018: *"The endless game of cat and mouse with spammers"*, <br>Eureka, Kyocera, [now archived](https://go.uwe.ac.uk/eureka). A discussion about bots on social media.
+* 04/04/2018: *"Impact of User Data Privacy Management Controls on Mobile Device Investigations"*, <br> Article in [HAL open science](https://hal.science/hal-01758690v1).
 * 09/03/2017: *"MaMaDroid: Detecting Android malware by building Markov chains of behavorial models"*, <br>[the morning paper](https://go.uwe.ac.uk/mama). A presentation of our Android malware detection system.
-
+* 08/11/2016: *"Smartphone Message Sentiment Analysis"*, <br>Article in [HAL open science](https://hal.science/hal-01393775v1).
 
 <br>
+
 <h3>Influence and Impact</h3>
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Transferable and AI-enabled Software Security Framework
-description: Fully funded PhD Studentship at UWE Bristol <br> Director of Studies
+description: Fully funded PhD Studentship at UWE Bristol <br> Director of Studies - now External Advisor
 img: assets/img/phd.jpg
 importance: 1
 category: UWE Bristol

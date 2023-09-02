@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: Projects I initiated or participated.
 nav: true
-display_categories: [UWE Bristol, University College London, University of Bristol]
+display_categories: [Toshiba Corporation, University of Birmingham, UWE Bristol, University College London, University of Bristol]
 horizontal: false
 ---
 <div class="projects">

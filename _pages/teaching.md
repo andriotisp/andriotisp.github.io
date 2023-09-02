@@ -7,10 +7,8 @@ nav: true
 ---
 
 <br>
-<h3>Academic Year 2021 - 2022</h3>
 
-*During this academic year (2021 - 2022) I did not teach any modules. <br>
-I was on sabbatical leave as a JSPS Fellow working at the National Institute of Informatics in Tokyo.*
+*During academic year 2021 - 2022 I was on sabbatical leave as a JSPS Fellow working at the National Institute of Informatics in Tokyo.*
 
 ---
 
@@ -20,7 +18,19 @@ I was on sabbatical leave as a JSPS Fellow working at the National Institute of 
 
 ---
 
-09/2022 - Present: <br>
+09/2023 - Present: <br>
+[BSc Computer Science](https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science.aspx) (University of Birmingham) <br>
+
+30432: LI Security and Networks (DB Lead and Instructor) <br>
+30427, 32594: LI Team Project (AI) (DB Lead and Instructor)<br>
+37083: LH Security of Real-World Systems (DB Lead and Instructor)<br>
+30403: LC Data Structures and Algorithms (DB Lead and Instructor)<br>
+26581, 26587, 26586, 30433: Computer Science Project 2023-24 (Supervisor)<br>
+MSc Project (Supervisor) <br>
+
+---
+
+09/2022 - 05/2023: <br>
 [BSc Computer Science](https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science.aspx) (University of Birmingham) <br>
 [MSc Data Science](https://www.birmingham.ac.uk/postgraduate/courses/taught/computer-science/data-science.aspx)
 
@@ -30,6 +40,7 @@ I was on sabbatical leave as a JSPS Fellow working at the National Institute of 
 30436: LH Advanced Networking (DB Lead and Instructor)<br>
 26581, 26587, 26586, 30433: Computer Science Project 2022-23 (Supervisor)<br>
 24055: LI Computer Science Industrial Placement (Supervisor)<br>
+MSc Project (Supervisor) <br>
 
 ---
 
@@ -72,6 +83,10 @@ COMS20700: Databases (UG, PG) <br>
 
 <br>
 <h3>Summer Schools</h3>
+
+
+* 13/07/2023: [IPICS2023](https://summerschool.eitdigital.eu/cyber-security-business-and-technical-perspectives) - *Intensive Program in Cyber Security: business and technical perspectives* <br>
+Digital Forensics with Open Source Tools  <br>
 
 * 18/07/2014: [IPICS2014](https://www.facebook.com/ipics2014/posts/633526810051724) - *Intensive Programme on Information & Communication Security* <br>
 Mobile authentication mechanisms and attacks  <br>
