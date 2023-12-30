@@ -3,7 +3,7 @@ layout: page
 title: Authentication and Side-Channel Attacks in Mixed Reality Environments
 description: Paul and Yuanbi Ramsay Research Fund, University of Birmingham <br> P.I.
 img: assets/img/vr.jpg
-importance: 1
+importance: 2
 category: University of Birmingham
 ---
 
