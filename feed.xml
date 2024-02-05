@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://andriotisp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://andriotisp.github.io/" rel="alternate" type="text/html" /><updated>2024-02-05T15:07:09+00:00</updated><id>https://andriotisp.github.io/feed.xml</id><title type="html">Panagiotis Andriotis</title><subtitle>Panagiotis Andriotis is an Assistant Professor in Computer Science and a GIAC Certified Forensic Examiner (GIAC GCFE, GIAC GASF).
+</subtitle><entry><title type="html">A Q&amp;amp;A about Digital Forensics with the Times of India</title><link href="https://andriotisp.github.io/blog/2023/toi/" rel="alternate" type="text/html" title="A Q&amp;amp;A about Digital Forensics with the Times of India" /><published>2023-09-01T01:00:00+00:00</published><updated>2023-09-01T01:00:00+00:00</updated><id>https://andriotisp.github.io/blog/2023/toi</id><content type="html" xml:base="https://andriotisp.github.io/blog/2023/toi/"><![CDATA[<p>I provided information about Digital Forensics at the print version of the <a href="https://epaper.timesgroup.com/article-share?article=22_05_2023_554_011_cap_TOI">Times of India</a>. Here is a copy of it. <br /></p>
+
+<p>1) <em>What are the variety of career paths Digital forensic science offers and their prospects?</em></p>
+
+<p>Digital Forensics as a discipline lays on the intersection of Computer Science, Cyber Security and Cyber Crime. It is a rapidly evolving field that involves the recovery, analysis, preservation and presentation of digital evidence, derived from a variety of sources (digital devices, wearables, computers, cloud environments, UAVs, etc.) with the intention to be used in a court of law. 
+Graduates can work as consultants in big firms, in law enforcement agencies, and they can also employed as cyber security and digital forensics analysts, threat hunting specialists, or to follow a different career path as forensics accountants if they come from a relevant background. Details of relevant roles are as follows: 
+– Incident response specialists: As cyber-attacks become more sophisticated, this role is expected to grow because these specialists are the first to respond in such attacks. Furthermore, together with digital forensics analysts they identify what caused an incident and propose methods to mitigate further attacks. 
+– Threat Hunting specialists: These cyber security professionals proactively search for threats and malicious activities in digital ecosystems. Their aim is to effectively detect potential security threats that could cause harm to an organization.
+– Cyber Security analysts: Are responsible for detecting and preventing cyber-attacks on computing systems, networks, digital, and industrial infrastructure. 
+– Digital Forensic analysts examine (primarily) digital devices aiming to recover data that can be used as evidence in legal cases. They often work with other cyber security professionals and they can also be employed in governmental roles. 
+– Forensic Accountants are investigating financial crimes and they usually analyse financial data to identify financial criminal activity or insider threats.</p>
+
+<p>2) <em>What is the primary focus of Digital forensic science? What does it rely on?</em></p>
+
+<p>The primary focus of Digital Forensic professionals is to gather and analyse digital evidence to investigate circumstances that led to potential crimes or, in contrast, confirm alibis that prove certain individuals’ innocence. The evidence can be collected from any digital source, such as computers, digital devices, cloud services. It relies on scientific methods used in Computer Science and it is also referred as the art of collecting, recovering, preserving, and analysing digital evidence. Digital Forensic professionals are usually responsible for writing reports about their findings and for presenting their investigative results in the court. The area of Digital Forensics relies on specialized tools and techniques that enable analysts to make sense of the derived data. As technology is always evolving and the digital forensic field is constantly growing, specialists need to stay in touch with the latest advancements, methods and tools.</p>
+
+<p>3) <em>How to start a career in Digital forensics?</em></p>
+
+<p>To start a career in Digital Forensics a candidate will normally require a combination of education, and/or formal training after pursuing a degree in Cyber Security, Digital Forensics or Computer Science in general. There exist undergraduate and postgraduate courses that enable candidates to acquire skills and knowledge to allow them to pursue a career in the field. These courses are usually focused on Cyber Security and Digital Forensics themes. Additionally, there exist dedicated institutions providing professional training focused on Digital Forensics, which are sometimes bound with organizations that provide Professional Certifications. Finally, a person interested in Digital Forensics may start as an intern, or an apprentice, gradually advancing their skills through hands-on experience. Digital Forensics as a discipline requires dedication and commitment because although it is based on fundamental principles, it is an ever-evolving field, adjusting to the advancements of technology.</p>
+
+<p>4) <em>The field of Digital Forensic Science is an interesting link between science and crime. Your take on this?</em></p>
+
+<p>Of course this is true. Digital Forensics as a scientific discipline offers methods to acquire and analyse digital data from devices (or storage means) that were potentially used by perpetrators, either to commit or enable potential crimes (e.g., cyber-attacks, fraud, data exfiltration). Therefore, Digital Forensics can assist in investigations related to cyber and physical crimes, given the fact that technology is embedded in modern societies and humans tend to use (personal) digital devices (and/or computers) in all aspects of their lives. Thus, it is feasible for a skilled professional to acquire evidence from digital sources when requested by legal entities to assist criminal investigations. Digital Forensics as a discipline accumulates methods and theory from a wide scientific area including Computer Science, Cyber Security, Maths, and Engineering and it allows specialists to work closely with law enforcement agencies, legal professionals and the financial sector to enable digital evidence acquisition and analysis that will assist in crime investigations.</p>
+
+<p>5) <em>What are the top recruiting companies where jobs for Digital forensic science experts are available?</em></p>
+
+<p>The demand for cyber security and digital forensic experts is growing as more organizations recognize the necessity of protecting their digital assets from cyber-attacks. Digital Forensic analysts not only assist in investigating incidents that might occurred in an organization, but they can also act proactively to protect them from malicious actors. Sectors where these kinds of specialists are needed are as follows: Digital forensic specialists are often employed by local, state, and federal law enforcement agencies, or by government agencies, such as Departments of Defence, which hire individuals to help investigate cybercrimes and protect national security. Additionally, many consulting firms, such as “the big four”, hire digital forensic specialists to provide cybersecurity and forensic services to their clients. Similarly, large technology companies, often hire digital forensic specialists to help investigate security incidents and protect their systems and data. Furthermore, financial institutions hire digital forensic specialists to investigate fraud and cyber-attacks and to protect their customers’ financial information. Finally, Digital Forensic laboratories, or Data Recovery services (public and private), hire digital forensic specialists to assist with the acquisition and analysis of digital evidence in criminal cases.</p>
+
+<p>6) <em>How can Digital forensic science courses become a unique and intriguing field, which if pursued in the right direction can shape up a good career path for a student both financially and professionally?</em></p>
+
+<p>Digital Forensic studies focus on acquiring the right skills to enable the candidate to flourish in the field. A confident professional should have concrete knowledge of Computer Science topics (e.g., programming, filesystems, cyber security, cryptography, architecture, etc.) and - at the same time - be punctual, pedantic, organised, and open-minded. Digital Forensic professionals are genuinely interested in technology, they are self-motivated, and they can effectively work individually and as part of a team. They like to keep themselves updated with new technologies and novel methods and they sometimes need to be inventive. Therefore, any organisation that can offer updated knowledge and hands-on activities to enable active learning, will eventually manage to cultivate effective graduates. Graduates need to maintain a passion for polishing their analytical, social, and team-working skills to elevate their professional lives. Additionally, strategies such as seeking networking opportunities and finding appropriate mentors in the industry can enable good professional prospects for a digital forensics expert. Digital forensics courses that offer interaction with esteemed figures of the sector, cultivate a sense of community, and create opportunities for networking, offering at the same time high standards of hands-on training based on real world scenarios, and engagement in research-oriented teaching can eventually grow well-trained professionals that will maintain the right mentality on how to become a successful professional in Digital Forensics. Finally, a successful Digital Forensics expert is the one that recognises the importance of lifelong learning.</p>
+
+<p>7) <em>How Indian students can benefit from a course in Digital forensic science? What is its relevance in the new market?</em></p>
+
+<p>Digital Forensics is a relatively young discipline which is relevant in the new market because of the growing demand for people who can actively assist in fighting cybercrime and securing digital ecosystems from cyber-attacks. Therefore, it is a discipline that has great potentials in job markets globally. Especially in emerging markets (such as the Indian), digital forensics science can see a remarkable bloom given the fact that the country is becoming an information technology hub. As discussed previously, there exist numerous different sectors where digital forensics specialists can work (from law enforcement to consultancy) therefore there are diverse job opportunities. Finally, if we consider that cyber security and digital forensics graduates usually acquire a variety of technical, analytical, social and communication skills, they can be valuable assets that can succeed in a range of industries.</p>
+
+<p><br /></p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/IMGtoi-800x408.jpg" srcset="    /assets/resized/IMGtoi-480x245.jpg 480w,    /assets/resized/IMGtoi-800x408.jpg 800w,/ assets/img/IMGtoi.jpg 1245w" data-zoomable="" />
+
+    </div>
+</div>
+<div class="caption">
+    A screenshot from the original print version.
+</div>]]></content><author><name></name></author><category term="Academia" /><category term="Digital" /><category term="Forensics," /><category term="Outreach" /><summary type="html"><![CDATA[The full version of the Q&A session at the print version of the newspaper.]]></summary></entry><entry><title type="html">Rise of cyber threats and 5 things to prevent being a victim of a cybercrime.</title><link href="https://andriotisp.github.io/blog/2023/cyber/" rel="alternate" type="text/html" title="Rise of cyber threats and 5 things to prevent being a victim of a cybercrime." /><published>2023-04-13T13:00:00+00:00</published><updated>2023-04-13T13:00:00+00:00</updated><id>https://andriotisp.github.io/blog/2023/cyber</id><content type="html" xml:base="https://andriotisp.github.io/blog/2023/cyber/"><![CDATA[<p>The COVID crisis enforced millions of people to familiarise with online spaces. We figured out ways to remain sociable and maintain human communication, thus we became accustomed with online learning environments and teleconference platforms. Older generations learned to communicate with loved ones using voice over IP and video communication channels and professionals modernised their workflows utilising trusted collaboration tools, doing video meetings, team chats and collaborating with their teams in virtual ecosystems. This unfortunate event allowed us to recognise the necessity of doing things online - in the cyberspace - but also gave us the opportunity to evaluate the importance of being and working together in physical spaces. Inevitably, this massive turn in using online spaces and services was followed by a rise of cyber threats, as cyber criminals were now able to perform their attacks on larger pools of victims.</p>
+
+<p>Cybercrime can be defined as any computer-based or computer-assisted crime that can occur on a personal computing device (e.g., mobile, desktop, etc.) or via a networked environment (including clouds). Cybercrime can also target small (e.g., home Internet-of-Things ecosystems) and larger infrastructure (e.g., Smart Grids and Industrial Systems). The European Union Agency for Cybersecurity (ENISA) in their latest “Threat Landscape 2022” report [1] identified the following prime threats for this year in the region: a) Ransomware, b) Malware, c) Social Engineering, d) Threats against data, e) Threats against availability: Denial of Service and Internet threats, f) Disinformation – misinformation, g) Supply-chain attacks. Moreover, they taxonomized cybersecurity threat actors in four major categories: i) State-sponsored actors, ii) Cybercrime actors, iii) Hacker-for-hire actors, iv) Hacktivists. They finally emphasised on the impact of geopolitics on the cybersecurity threat landscape, while stressing the increased capabilities of the threat actors, the rise of malware and ransomware, and the emergence of novel and hybrid threats (referring to the spyware proliferation and AI-enabled disinformation among others). According to the report, cybersecurity attacks continued to increase not only in terms of numbers and vectors, but in terms of impact as well. This rise in incidents affected multiple targets: from individuals to larger entities. An impact assessment reveals that the rise of cyber threats may have the following effects on individuals or larger organisations: 1) Reputational impact which is the potential negative publicity that might be stemmed from an attack; 2) Economic impact that might be incurred (e.g. financial loss); 3) Digital impact when the attack results in damaged systems, or unavailability in services, or data corruption; 4) Social impact which might occur after a major and widespread disruption; 5) Physical impact when an incident is directly linked to any kind of harm on individuals, e.g. to employees, or patients. Although the rise of cyber threats can eventually affect several entities (individually or in groups), the rest of this short article will focus on cyber threats affecting individuals, and further discusses what they can do to protect themselves from emerging threats.</p>
+
+<p><strong>Ransomware</strong>: In this type of attack, threat actors aim to control victims’ assets (e.g., folders in a hard drive) and demand a fee to be paid to unlock access to these assets. The attack is commonly achieved using phishing - a social engineering offensive method that targets individuals. Victims’ assets are locked (or encrypted) resulting in loss of availability and they are unlocked only if the individual pays a ransom. There is an ongoing conversation about victims’ reaction to such unfortunate events, i.e., whether they should pay the ransom, but the generic advice is to report cases where people have fallen victims of ransomware campaigns. According to ENISA’s report, some U.S. states prohibit agencies to pay ransom and it has been made mandatory to report ransomware attacks.</p>
+
+<p><strong>Malware</strong>: Malware is any unwanted or malicious software (or code) that can be installed and run in a computing device. Malware is often divided in distinct categories such as viruses, trojan horses, worms or other code-based instances that can affect a device (a host). Nowadays we can also include new categories of unwanted software: a) spyware, and b) adware. Spyware cases have been reported in the news lately affecting numerous (usually high profile) people in several countries. Pegasus [2] and Predator [3] are two dominant examples of spyware that was used by various entities lately targeting individuals from the political and business sector. Adware is another form of unwanted code (PUP: Potentially Unwanted Software); the software usually enables ads with an intrusive behaviour, that cause frustration to the users (e.g., pop ups or full screen ads in mobile operating systems). Malware in general is targeting users of popular operating systems (e.g., Windows and Android) because via these routes it will eventually infect more individuals. ENISA’s report mentions that malware attacks on IoT infrastructure have also increased this year.</p>
+
+<p><strong>Social Engineering</strong>: These methods attempt to exploit human behaviour and the attacker has the objective to get access basically to personal information and data. Attackers exploit users’ security fatigue or human error employing deceitful strategies (e.g., impersonation). They use numerous forms of manipulation to trick victims into making mistakes. Then victims hand over to them sensitive and personal information (e.g., names, dates of birth, passport data, bank details, etc.) without even realising it. Phishing is the most prominent term that is bound with social engineering attacks. With phishing attackers aim to steal personal information (e.g., passwords) from individuals usually through emails. These emails are sent to a massive number of individuals, and they usually contain links to external web sites that frequently mimic legitimate ones. Spear phishing is an alternative tailored method where attackers target specific individuals and/or organisations. When these individuals are high esteemed (or high calibre) people then we are talking about whaling attacks. Other categories of phishing include smishing which is a form of social engineering attack attempted via SMS messages (usually on mobile devices), and vishing which is a term derived from the combination of phishing and voice; this attack is usually performed over the phone.</p>
+
+<p><strong>Misinformation-disinformation</strong>: Most people nowadays tend to replace traditional media with online sources when they want to reach the news. New media generate income based on the number of clicks and views; therefore, they might attempt to lure users in clicking links in their websites following additional stories. These actions eventually provide more profit to online media. Subsequently, generated information might not be validated, either because there is not time for this (competition dictates the information to be circulated as fast as possible) or because these outlets aim to generate traffic neglecting validity. Thus, misinformation is any incorrect or misleading information that might derive from negligence or human error. Misinformation propagates through numerous channels (social media, online group discussions, the web). Disinformation on the contrary is any attempt to deceitfully produce fake information. The goals the drive disinformation campaigns vary. Attackers might want to cause reputation damage or reduce individual’s trustworthiness; they might aim to cause market distortion and affect brand reputation; they might aim to influence elections or spread fake news and propaganda manipulating and misleading public opinion. Moreover, the proliferation of Artificial Intelligence has made the production of Deep Fakes (i.e., technology that manipulates or fabricates videos containing famous people’s face and voice) a trivial task. Therefore, disinformation campaigns can now be easily enriched by fabricated content. These developments block humans’ ability to distinguish truthful and deceitful news and blur their perceptions about the world.</p>
+
+<p><strong>Threats against data and “insider threats”</strong>: Modern people produce humongous data while they use their personal devices. They log into numerous websites, and they often tend to share personal secrets with their loved ones (even though this is not a good practice). Moreover, some users store and share very personal moments with their partners assuming that there will always be a trusted connection between the two entities. However, it is possible that this bond of trust can be broken any time, making people vulnerable to revenge or other types of malicious attacks. Data leaks or/and data breaches are becoming a frequent phenomenon, thus personal data can be sold in dark web markets.</p>
+
+<p>So, what can we do to protect ourselves and avoid being victimised by malicious attackers?</p>
+<ul>
+    <li> Be proactive: Update your operating system frequently and install any security updates. Mobile operating systems (e.g., Android) offer monthly security updates and traditional operating systems such as Windows and macOS frequently nudge users to download and install security updates. These updates most of the time do not cause a lot of frustration and they can effectively protect our devices. Also, try to download and install software from trusted sources. For example, the Play store for Android devices offers built-in protection, scanning apps for vulnerabilities and possible malicious extensions. These checks and controls are not always sufficient, but they offer a good level of resistance to malicious behaviours and actions. Additionally, the use of antivirus software is considered a good solution to assist you to proactively scan your device for potential threats.</li> 
+    <li> Be vigilant: Do not click links in emails send from people or entities you do not know or trust. Do not download zip and other files that might be affected with viruses unless you totally recognise and trust the person that send the email. Do not click on links received via SMS messages. Be careful when you are approached by entities that claim you won something or that you can claim refunds etc. You should be mature enough to recognise that making money is a difficult process for a lot of us, so when other parties claim they can share some money with you, you should consider this as a red flag. Do not share personal information over the phone or via email. Banks will not request from you to provide credentials unless you log into their web sites. Be careful and validate the web addresses of the institutions. If a web address for a bank you trust does not seem to be the right one, question yourself if you are trying to log into a legitimate site.</li>
+    <li> Use multi factor authentication when you are provided with this choice: Multi-factor authentication (MFA) requires from the user to input more than one credentials to authenticate themselves. Users must provide a secret they know, a key they have (e.g., via a push notification on their mobile devices), or to use a trait that justifies their identity (e.g., face or fingerprint recognition). When MFA is not available, try to use strong passwords and aim not to reuse your passwords in various websites. Of course, try not to write down these passwords. Special software (namely password managers) is usually a good choice to manage access to several websites - although we have experienced lately attacks on these vendors as well.</li>
+    <li> Be careful: Do not share personal data with anyone. Your data are your treasure. Keep them for yourself. Evaluate how you interact with people you trust and question yourself if it is worth it to store on digital media very personal moments. Additionally, use this strategy when you are posting things online. Your public opinions might be used to profile you. Be careful about your public posts because they might be used by malicious actors to trick you. Moreover, know your rights! In Europe for example the General Data Protection Regulation attempts to protect European citizens from misuse of their data. Nevertheless, because your data is your treasure, ensure you keep regular backups of important data to protect from failures and potential ransomware attacks.</li> 
+    <li> Be curious, protective, and transparent: Support cyber security awareness campaigns (in your school, or work environment) and learn about the current trends in cybercrime. Employ a people-centric approach to cyber security. Trust your people but first inform them about the risks that negligence entails. Enable parental controls on devices to protect children from accessing malicious and suspicious neighbourhoods on the internet. Use VPN services when you are not connected in trusted wireless networks. If you fall victim of an attack, call the correct people. The police usually have dedicated units that are able to assist you in case you have fallen victim of a cybercrime.</li> 
+</ul>
+
+<p>The web is just like any other known communal place. It gathers goodness and badness in one (digital) area. We should embrace the fact that the internet has simplified most aspects in our modern lifestyle. However, we should be informed, vigilant and aware of the risks that are bound with the unrestricted access to content and services provided on the web. A general rule that is common in both virtual and physical worlds would be: do not engage if you don’t trust the entity that attempts to establish some kind of communication with you. Another model that works in this setting is “trust but verify” when the communication attempted is by a source you know. Be engaged but stay alert.</p>
+
+<p>[1] <em>Enisa Threat Landscape 2022</em>. ENISA. (2022, November 11). Retrieved November 20, 2022, from https:// www.enisa.europa.eu/publications/enisa-threat-landscape-2022</p>
+
+<p>[2] Scott-Railton, J., Marczak, B., Poetranto, I., Razzak, B. A., Chanprasert, S., &amp; Deibert, R. (2022, July 28). 
+<em>GeckoSpy: Pegasus spyware used against Thailand’s pro-democracy movement</em>. The Citizen Lab. Retrieved November 20, 2022, from https://citizenlab.ca/2022/07/geckospy-pegasus-spyware-used-againstthailands-pro-democracy-movement/</p>
+
+<p>[3] Parsons, C., Molnar, A., Dalek, J., Knockel, J., Kenyon, M., Haselton, B., Khoo, C., &amp; Deibert, R. (2019, June 12). <em>The predator in your pocket: A multidisciplinary assessment of the stalkerware application industry</em>. The Citizen Lab. Retrieved November 20, 2022, from https://citizenlab.ca/2019/06/the-predator-inyour-pocket-a-multidisciplinary-assessment-of-the-stalkerware-application-industry/</p>]]></content><author><name></name></author><category term="Cyber" /><category term="Security" /><category term="Cyber," /><category term="Crime" /><summary type="html"><![CDATA[A short summary about cybercrime in 2022-2023]]></summary></entry><entry><title type="html">Google Photos app data aggregation</title><link href="https://andriotisp.github.io/blog/2022/photos/" rel="alternate" type="text/html" title="Google Photos app data aggregation" /><published>2022-06-04T13:00:00+00:00</published><updated>2022-06-04T13:00:00+00:00</updated><id>https://andriotisp.github.io/blog/2022/photos</id><content type="html" xml:base="https://andriotisp.github.io/blog/2022/photos/"><![CDATA[<p>I like browsing my photos. I take photos with my Android phone, and I have also great shots from my Nikon and (currently) Fujifilm cameras. Photos in my opinion tell a story and they allow me to relive the events of the past. I am not a fan of selfies (this might seem contradictory if you see the pictures below, but I am telling the truth 😊) and I prefer to take pictures of places I visit. Hence, when I browse these files, I feel that I visit the places again. But the <strong>Photos app</strong> on Android has gone a little bit further regarding the re-enactment of the past. To some people the following article just mentions something they already knew. I wish that the proposed experiment will be enlightening for most of the readers.</p>
+
+<p>Let’s start!</p>
+
+<p>First, let me say I am aware of the privacy settings of my Google account, and I already know that <strong>location tracking and history</strong> are always on for my Android phone. I don’t know if you agree or not with this choice, but let’s say I am somehow OK with the trade-offs involved in this selection. So, if <strong>location tracking</strong> is on in your phone, (or even if it is not!) you might find the following steps to be an interesting experiment. BTW, I am using a “Pixel” device, so you might not have exactly the same results on your phone, after repeating the steps below.</p>
+
+<ul>
+    <li>Launch the “Google Photos” app and select the “Photos” tab.</li>
+    <li>Tap on any photo and then tap on the vertical ellipsis symbol $\vdots$. This will give you information about the picture. If “Save location” is enabled in your Camera settings, then you will see a map that shows where in the world this picture was taken. This information is embedded usually in the photo’s metadata.</li>
+    <li>So far, so good, I guess that most of the readers are already familiar with this.</li>
+    <li>If you tap on the map, then you will see a different view… The Photos app will show you a collection of photos in your device related to this event (probably captured the same day). If you are careful enough you might see that there might be some areas around, coloured in light blue/purple. These look like heatmaps. Any ideas what are these?</li>
+</ul>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/bl1-1400x663.png" srcset="    /assets/resized/bl1-480x227.png 480w,    /assets/resized/bl1-800x379.png 800w,    /assets/resized/bl1-1400x663.png 1400w,/ assets/img/bl1.png 3040w" />
+
+    </div>
+</div>
+
+<p><br /></p>
+
+<ul>
+    <li>Additionally, if you tap on some of these heatmaps, you will probably see a blue line connecting your photos!</li>
+</ul>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/bl2-1400x663.png" srcset="    /assets/resized/bl2-480x227.png 480w,    /assets/resized/bl2-800x379.png 800w,    /assets/resized/bl2-1400x663.png 1400w,/ assets/img/bl2.png 3040w" />
+
+    </div>
+</div>
+
+<p><br /></p>
+
+<ul>
+    <li>So, heatmaps show the geotagged photos you took in the area, and the blue line shows the path you took while taking these photos! Creepy enough? Maybe for some, but don’t forget! You have location services on; and this is your choice! Hence, if you think that this data aggregation is creepy, then you have to revisit the Privacy Settings in your Google account.</li>
+    <li>Let’s try a final thing. With a pinch-out gesture on the map, you will be able to see a heatmap of ALL geotagged photos (associated probably with the Camera app or your Google account)! This is a great example of data aggregation, and it can be quite spooky or intimidating for most users.</li>
+    <li>End of experiment. Did you know about this? How do you feel about it?</li>
+</ul>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/bl3-1400x663.png" srcset="    /assets/resized/bl3-480x227.png 480w,    /assets/resized/bl3-800x379.png 800w,    /assets/resized/bl3-1400x663.png 1400w,/ assets/img/bl3.png 3040w" data-zoomable="" />
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/bl4-1400x663.png" srcset="    /assets/resized/bl4-480x227.png 480w,    /assets/resized/bl4-800x379.png 800w,    /assets/resized/bl4-1400x663.png 1400w,/ assets/img/bl4.png 3040w" data-zoomable="" />
+
+    </div>
+</div>
+<div class="caption">
+    Oh, the Places You'll Go!
+</div>
+
+<p>How I felt when I realised this? First, I was surprised! Then I was sceptical about the amount of data that can be aggregated and visualised in a map (and these data are actually my real life)! After all, I realised that the principles we teach to our students (privacy and security) apply to our data as well… Finally, I recognised that despite the privacy controls and the efforts towards implementing security and privacy awareness initiatives, we are all still humans. We are (unfortunately) willing to eventually give up (or loosen) some rights we have, in order to receive a couple of benefits. Although I am sceptical about the amount of private data I willingly provide to big tech, I also enjoy seeing in a map the places I have been. I also enjoy following that blue line on the map, because this action enriches my remembrance experience.</p>
+
+<p>Is this experience enhancement worth the trouble? This is a tough question. And it explains why people are very confused about how big tech deals with their data. I would be mostly OK if only me and the company were the only entities that had access to this data. The big question then is: Who else has access to this data? Even if the data is anonymized, would you feel comfortable by the fact that these data can be used by third parties? Even better, would you like to know who has (or had) access to these data? Should you be able to know how this data was used and with whom they were shared? Would this kind of transparency make any difference in the end of the day? And finally, should we as individuals do something about that? The GDPR (and similar legislation) is a good first step towards awareness and control, but in my opinion, it is not enough. As we move more services (and aspects of our lives) to the Cloud(s), these kinds of questions and dilemmas will become more pressing.</p>
+
+<p>Takeaways and food for thought:</p>
+<ul>
+    <li>Do we need more transparency about how our data is used?</li>
+    <li>Do we need tiers that regulate how much of our data we allow to be shared and with whom?</li>
+    <li>How do we really feel (as consumers) about the migration to Cloud services and the proliferation of this computing paradigm?</li>
+<ul>
+
+</ul></ul>]]></content><author><name></name></author><category term="Android" /><category term="Privacy" /><summary type="html"><![CDATA[My digital photo albums are becoming creepy]]></summary></entry><entry><title type="html">Sharing my experience and advice as a JSPS Fellow</title><link href="https://andriotisp.github.io/blog/2022/jsps/" rel="alternate" type="text/html" title="Sharing my experience and advice as a JSPS Fellow" /><published>2022-04-20T01:00:00+00:00</published><updated>2022-04-20T01:00:00+00:00</updated><id>https://andriotisp.github.io/blog/2022/jsps</id><content type="html" xml:base="https://andriotisp.github.io/blog/2022/jsps/"><![CDATA[<p>It’s been a while since I started thinking to write this short article to discuss my experience as a JSPS Fellow. So, if you are looking to do a Postdoc (for one or two years), and at the same time to experience life in Japan, then you should definitely visit the official <a href="https://www.jsps.go.jp/english/e-fellow/index.html">JSPS website</a> to see what you need to do to apply, and if this is something you would find financially beneficial in case you get selected. My experience was (and it still is…) 100% positive and (although I had to wait for a few months for my visa to be issued – due to COVID constrains) I would not change the months I spent in Tokyo (and Japan in general) with anything.</p>
+
+<p>First, let me say this: The scheme is <strong>competitive</strong>! I gathered stats from the JSPS site, and I estimated (considering acceptance rates from the last 5 years) that only one out of ten people get this scholarship (<em>average 10.26%</em>). So, be prepared to write a very good research proposal and be prepared to get rejected, because this is highly probable. As you should already know by now, getting rejected is part of the process in Academia, but then you will still have a nice proposal written that could be used as part of another application. The stats from the 5 last years (2018-2022) are as follows:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th style="text-align: center">1st call</th>
+      <th style="text-align: center">2nd call</th>
+      <th style="text-align: center">Average</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2022</td>
+      <td style="text-align: center">10.7%</td>
+      <td style="text-align: center">N/A</td>
+      <td style="text-align: center">10.7%</td>
+    </tr>
+    <tr>
+      <td>2021</td>
+      <td style="text-align: center">11.1%</td>
+      <td style="text-align: center">10.2%</td>
+      <td style="text-align: center">10.65%</td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td style="text-align: center">10.8%</td>
+      <td style="text-align: center">9.4%</td>
+      <td style="text-align: center">10.1%</td>
+    </tr>
+    <tr>
+      <td>2019</td>
+      <td style="text-align: center">10.6%</td>
+      <td style="text-align: center">9.4%</td>
+      <td style="text-align: center">10.0%</td>
+    </tr>
+    <tr>
+      <td>2018</td>
+      <td style="text-align: center">10.6%</td>
+      <td style="text-align: center">9.1%</td>
+      <td style="text-align: center">9.85%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<p>So, briefly, what you will need?</p>
+<ul>
+    <li>A (senior) researcher (from a Japanese research entity) that will act as your host.</li>
+    <li>A good research plan (and maybe some prior experience working with a group in Japan – I believe this helped me a lot to get 2 JSPS fellowships, the short-term one and the standard one).</li>
+    <li>An open mind about the cultural differences you will experience as soon as you get selected (I definitely say this with a positive tone, although there are some aspects in the Japanese hierarchy/bureaucracy that might surprise you, e.g., honorifics).</li>
+    <li>Flexibility and ability to live and work in small and usually crowded spaces (that was not the case for me though in 2021-2022, as I did my fellowship during the COVID restrictions, which allowed me to work in a less crowded office due to the restrictions in movement).</li>
+</ul>
+
+<p>Let’s talk now about my relationship with the Japanese Academia. As a PhD candidate I was looking for different ways to expand my research network and add experiences in my life that would allow me to feel good, and less stressed. I accidentally saw a listing somewhere about an Internship for International Researchers to visit and conduct a short research activity with groups in Japan in the National Institute of Informatics, Tokyo. I was not planning to visit Japan as it was not a top destination in my travel bucket list (which, as I found out later, was the biggest mistake: visiting Japan as a tourist should be your No1 priority!). So, I applied, and I got this Internship. Twice! Yes, this is how much I liked the place. Since then, I have visited Japan 3 more times, 2 as a JSPS Fellow and 1 under another International Exchange Research programme.</p>
+
+<p>During the COVID era, travelling was not easy and there were strict rules for entering the country. Note that I had to self-isolate in hotel for 14 days when I arrived! I have heard about cases of Fellows that were waiting to get their visa for a year! I was waiting for about 5 months. So, I would advise you to consider that maybe it would be a good idea to have a backup plan about the sources of your income in case you get selected, because you might have to wait for some months before you get your visa and be allowed to enter the country (under any COVID restrictions). As soon as you get selected and when you start your fellowship, you are not supposed to work elsewhere, and you are expected to devote your time in conducting your research in Japan. In my case, I planned this visit to be my (unpaid) sabbatical from my workplace (a University in the U.K.). Sometimes I feel that, financially, this was not a good choice, but at the end of the day, I preferred to sacrifice financial gains aiming to acquire balance in my life, and rethink about the future, my priorities, and do what I really wanted to do that period; to spend my time doing reviews, writing papers, and reading about exciting research (while trying to do mine!).</p>
+
+<p>Another piece of advice would be to ensure you know the researcher that will host you. You will spend a year or two in that lab, and you need to understand how people work in that environment. My host and I were familiar with each other since my first visit as an intern to that Institute. Thus, I was extremely aware of the type of collaboration we would have. I am very grateful for the opportunities I had to work in a very relaxed environment, and to follow my research agenda, while getting unlimited support from my host and his Institute when I requested it. Depending on the period, you might have the chance to work with other researchers too, and you might also have the chance to meet other people. That was the case the previous times I visited, but in 2021-2022 during the COVID era, it is obvious that opportunities for face-to-face interactions in the office were limited. I guess that Institutes/Universities have implemented their own rules following some kind of a generic guidance about how often they expect people to visit their offices. However, I never felt there was some kind of restriction in my case, because I was trying to stick to the rules (social distancing, wearing mask when necessary, using hand sanitizers, temperature checking, etc.).</p>
+
+<p>Additionally, people might feel anxious about the work culture in Japan. We have all seen videos with people being stuck in the trains in Tokyo during peak hours… I rarely experienced this situation because I avoid travelling during the rush hour. So, if you are flexible with hours, then you will not have this kind of problem. However, sometimes trains can also get very busy in random hours. But if you have experience living in a big city then you probably know how things work. The only thing you should be aware of is that you don’t want to lose the last train. Taxis are quite expensive and transportation options during the night are limited (in Tokyo). However, there are plenty of options to spend your time afterhours and wait for the first train of the next day! Tokyo (and Japan in general) is considered as one of the safest places in the world. To return to my initial thoughts, I was talking about the work culture in Japan, and I totally believe that this fellowship allows for some flexibility. I never felt I had to be in my office certain hours a day. You are expected to work full time, but at the same time there is flexibility. There are days in the week that I felt I wanted to stay 10 hours in the office, and some other days I worked only for 6 hours because I was very productive. This is your fellowship, and you manage your own time. I guess that flexibility is related with the norms set by the research centre and the host advisor. So, don’t worry a lot about work culture because I believe that this scheme allows you to be flexible. I should also not forget to mention that there are numerous official national holidays in Japan, so you will definitely have a lot of opportunities to travel within the year.</p>
+
+<p>Traveling! As a visa holder you will not have unfortunately the opportunity to use the super affordable <a href="https://japanrailpass.net/en/">JR Rail Pass</a> but there are some train passes for residents with foreign passports. There will be opportunities for travel during the year especially when you can combine a national holiday with the weekend, so before you start your fellowship check if the calendar allows for these 3-4 days consecutive days of rest. The most famous season for traveling is the Golden Week (early May), when almost everyone in Japan is going somewhere for vacation! Every weekend is also a good opportunity to travel. Seasons in Japan are well-defined, and you will be amazed about the natural beauty of this country. Mountains, trekking, onsens (natural hot springs), theme parks, shopping, amazing food are just some perks of life in Japan. However, traveling is expensive (I am talking about the shinkansen, i.e., the bullet train). Hotels are great (usually rooms are small though) and you can find a variety of prices. I personally used my Airline Alliance miles a few times I flew, so travelling can also be affordable. Save some money and take advantage of these opportunities to travel in the country. It is a great experience. Sometimes you might feel that you spend all the money of your fellowship, and you are not saving. Well, we only have one life to live! Best time to travel is during November (autumn leaves), April (cherry blossoms), May (very good weather conditions). June is the rainy month in Japan (up to early-July) thus is not a good time to travel for fun, unless you enjoy rain. July and August are usually very hot, but I don’t mind. It depends on your stamina and how you can handle hot weather conditions. September is also not a good time in general to travel (typhoon season).</p>
+
+<p>Financially, this is an OK situation. You will get a reasonable monthly stipend and your host is also eligible to apply for additional funding to assist you with your research (equipment, conferences, etc.). You will have to pay monthly approx. JPY19K for your pension and National Insurance and approx. JPY8.5K for commuting. Renting a room can be tricky (especially if you are new to the area) so it is recommended to ask your host to assist you with accommodation. Expect that you will find numerous (basically old) buildings offering accommodation for foreigners (shared, guest houses, studio apartments, etc.) and the prices range dramatically. In general, if you choose to live in a suburban area in the metropolis, you will find reasonably prized places (I am paying JPY60K a month for a studio apartment in Heiwadai, 35-40 minutes commute to my workplace). But accommodation in general can be tricky (fees, etc.), so spend considerable time reviewing offers and looking the “fine print”. You will have no problems finding food in Tokyo because there are convenience stores (open 24h) everywhere and they usually offer lots of choices for food. Plus, there are always a lot of stores next to any central metro station in Tokyo (some of them are also open 24h or they stay open until… 26:00 which means 02:00 am the next day). Some places (like the one I am staying) do not include bills in the rent. I do not consume a lot of power/gas/water since I am spending a lot of time in the office, so I could say I am spending approx. JPY10K for the bills per month. I don’t think I forgot anything, so in general you should expect that you will spend approx. JPY100K monthly as living expenses. That leaves you with JPY260K for your food and leisure. That’s approx. JPY8.5K per day. Fruit and vegetables are super expensive in Japan (e.g., JPY600 for 2 apples is considered to be a normal price) but at the same time you will find products that are very reasonably priced (e.g., JPY130 for 4-5 bananas). Additionally, if you decide that you are OK with eating out every day, an average price in a ramen shop is approx. JPY850. Fast food is not very expensive (especially if you are using apps and coupons), but pizza can be a luxury! Generally speaking, if you do not spend a lot of money eating out in expensive places, you can actually save money in a year. I was speaking with other Fellows who left the country after they finished their scholarships, and they were looking for cheap ways to transfer money to their countries. Additionally, those prices are final, since you do not tip in Japan. You always get high levels of service without the need to tip anyone! Actually, tipping might be seen as a rude thing to do here!</p>
+
+<p>I can talk for hours about my experience, and I am actually sad that it will end in a few months. I believe that it is not very difficult to find a decent job here after you finish your fellowship, but you really need to be able to speak the language to increase your chances to get hired, in case you choose to remain. My final thoughts and advice are as follows.</p>
+
+<ul>
+    <li>Try to learn a little bit of Japanese before you come here. People in general do not speak English or they do not feel comfortable speaking English (which to me makes perfect sense: I prefer to speak Greek when I am in Greece!). I do not speak Japanese, but I am doing decent attempts to learn a bit of it. In your work place you will not have issues discussing/communicating in English, but out there, things are different. However, even if you don’t speak Japanese (like me) you will have no issues. The only thing you will miss is probably interaction with locals (in a pub, izakaya, etc.) that don’t speak your language.</li>
+    <li>Services can be quite pricey. You will realise for example that if you want to visit a hair stylist, you will need to pay a lot of money (JPY6-7K at least). A decent barber shop costs around JPY2.5K – cut only 😊. Gym memberships are also expensive. My running station is usually JPY5K a month, but I am using it very frequently and I also use the showers there, resulting in less water and gas consumption in my studio.</li>
+    <li>You might feel a little bit alienated sometimes. Additionally, I don’t know how life would be if you had to live in that stipend and you also had to support your family. So, my opinions expressed here are from the “solo traveller” perspective.</li> 
+    <li>Do not travel to Japan if you have experienced an earthquake in the past and you felt that it was the most scaring or traumatic thing you went through. So far, after 5-6 months I felt 11 earthquakes with one being a very scary one (M7.3 in Fukushima). Buildings are very safe and well-constructed, so you should not worry about this a lot, but if the whole situation makes you feel unpleasant, then do not make the move to come here; the only thing that is 100% sure is that you will experience earthquakes very often.</li>
+    <li>I did not talk about the Japanese people so far. This is my personal opinion, and I am 100% biased, but I absolutely respect how this society manages to keep every public infrastructure clean and functional, how they manage to have a very organised megacity (30M+ people live in the Tokyo metropolitan area) and how well they live with each other in small spaces. People seem to be respectful and polite, and they usually follow certain social etiquettes. This can be intimidating for some people, but for me it works like a charm. Again, I have not lived as a “salaryman” having to be in my office at 09:00, following certain rules and hierarchy, and I am talking about my experience as a JSPS fellow, being flexible and having the ability to work from home, in the office, afterhours or during the weekend if I want. If I was working as a “normal” employee, things might have been different. So, before you come here (even as a tourist) try to learn and follow the etiquette. It will make your life easier.</li>
+    <li>You will get the chance to participate in outreach activities. I look forward to visiting a High School in June and talk to young Japanese people about my field of scholarship and research!</li>
+</ul>
+
+<p><br /></p>
+
+<p>I am sharing a few pictures with you in this article, and I wish you will enjoy your time if you are lucky enough to get selected as a JSPS Fellow. You should feel proud for this achievement given that only 10% of the applicants are able to get the scholarship. So, enjoy the (learning) experience and I hope you will like it as much I did.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/DSCF1116-1400x933.JPG" srcset="    /assets/resized/DSCF1116-480x320.JPG 480w,    /assets/resized/DSCF1116-800x533.JPG 800w,    /assets/resized/DSCF1116-1400x933.JPG 1400w,/ assets/img/DSCF1116.JPG 6240w" data-zoomable="" />
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/DSCF1351-1400x933.JPG" srcset="    /assets/resized/DSCF1351-480x320.JPG 480w,    /assets/resized/DSCF1351-800x533.JPG 800w,    /assets/resized/DSCF1351-1400x933.JPG 1400w,/ assets/img/DSCF1351.JPG 6240w" data-zoomable="" />
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/DSCF1429-1400x933.JPG" srcset="    /assets/resized/DSCF1429-480x320.JPG 480w,    /assets/resized/DSCF1429-800x533.JPG 800w,    /assets/resized/DSCF1429-1400x933.JPG 1400w,/ assets/img/DSCF1429.JPG 6240w" data-zoomable="" />
+
+    </div>
+</div>
+<div class="caption">
+    Make sure you bring your camera with you. Japan has a lot to offer. A visit to Kyoto during the cherry blossom session is a must!
+</div>
+
+<p><strong>UPDATE: 17/08/2022</strong></p>
+
+<p><br />
+I made a video featuring some places I visited during my tenure. I hope you will enjoy 🙂</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X_dyFYzmx98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="Academia" /><category term="Fellowship," /><category term="Year" /><category term="Abroad" /><summary type="html"><![CDATA[What is it like to live in Tokyo as a JSPS Research Fellow?]]></summary></entry><entry><title type="html">Bu-Dash, A Universal and Dynamic Graphical Password Scheme</title><link href="https://andriotisp.github.io/blog/2022/budashb/" rel="alternate" type="text/html" title="Bu-Dash, A Universal and Dynamic Graphical Password Scheme" /><published>2022-02-06T01:00:00+00:00</published><updated>2022-02-06T01:00:00+00:00</updated><id>https://andriotisp.github.io/blog/2022/budashb</id><content type="html" xml:base="https://andriotisp.github.io/blog/2022/budashb/"><![CDATA[<p>Knowledge-based user authentication on mobile devices is gradually being replaced by biometric methods, as trustworthy sensors become available and affordable. However, Personal Identification Numbers, and graphical password schemes like the Android Pattern Unlock are fundamental assets for maintaining security and usability. They are the primary means to be utilized before setting up biometric authentication (e.g., Face ID) and they constitute an auxiliary/backup method to be used in case the biometric sensor on the device fails. Passcodes need to be memorable in order to be usable, therefore users tend to choose easy to guess passwords, compromising security. The Android Pattern Unlock is a great example of a popular and usable graphical password scheme which can be easily compromised because of common human behavioristic traits that are evident and predominant when users are called to form their passcodes. The popularity of this password scheme has led researchers to propose adjustments and variations that enhance security but maintain the familiar user interface. Nevertheless, prior work demonstrated that improving security while preserving usability remains frequently a hard task. In our paper (to be presented in <a href="https://2022.hci.international/">HCI International 2022</a> end of June 2022) we propose a novel graphical password scheme built on the foundations of the well-accepted Android Pattern Unlock method, which is usable, inclusive, and robust against shoulder surfing and smudge attacks. Our scheme, features a dynamic user interface that mutates every time a user swipes the screen. Our pilot studies illustrate that “Bu-Dash” attracts positive user acceptance rates and maintains high usability levels.</p>
+
+<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is &quot;Bu-Dash&quot;. We will present the results of a couple of user studies about it in HCII 2022. <a href="https://t.co/f70GL9fh8m">pic.twitter.com/f70GL9fh8m</a></p>&mdash; Panos Andriotis (@PanosAndriotis) <a href="https://twitter.com/PanosAndriotis/status/1490287976810958849?ref_src=twsrc%5Etfw">February 6, 2022</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+
+<p>A <a href="/assets/pdf/hcii22andrio.pdf">preprint</a> is available.</p>
+
+<p>Cite as: “Andriotis, P., Kirby, M., Takasu, A. (2022). Bu-Dash: A Universal and Dynamic Graphical Password Scheme. In: Moallem, A. (eds) HCI for Cybersecurity, Privacy and Trust. HCII 2022. Lecture Notes in Computer Science, vol 13333. Springer, Cham. https://doi.org/10.1007/978-3-031-05563-8_14”</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/budash-800x259.png" srcset="    /assets/resized/budash-480x155.png 480w,    /assets/resized/budash-800x259.png 800w,/ assets/img/budash.png 1325w" />
+
+    </div>
+</div>
+<div class="caption">
+    It's not the "Squid Games". It's the "Bu-Dash" scheme. 
+</div>]]></content><author><name></name></author><category term="Research" /><category term="Security," /><category term="Authentication" /><summary type="html"><![CDATA[Presenting Bu-Dash, a novel graphical password scheme]]></summary></entry><entry><title type="html">Circles and triangles and squares, et cetera</title><link href="https://andriotisp.github.io/blog/2021/budash/" rel="alternate" type="text/html" title="Circles and triangles and squares, et cetera" /><published>2021-11-11T01:00:00+00:00</published><updated>2021-11-11T01:00:00+00:00</updated><id>https://andriotisp.github.io/blog/2021/budash</id><content type="html" xml:base="https://andriotisp.github.io/blog/2021/budash/"><![CDATA[<p>Before the “Squid Game” was even filmed, <strong>Bu-Dash</strong> was employed in our mobile devices as a new authentication method. More details in a few weeks.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+<img class="img-fluid rounded z-depth-1" src="/assets/resized/budash-800x259.png" srcset="    /assets/resized/budash-480x155.png 480w,    /assets/resized/budash-800x259.png 800w,/ assets/img/budash.png 1325w" />
+
+    </div>
+</div>
+<div class="caption">
+    It's not the "Squid Games". It's the "Bu-Dash" scheme. 
+</div>]]></content><author><name></name></author><category term="Research" /><category term="Usability" /><summary type="html"><![CDATA[Bu-dash is a novel graphical password scheme]]></summary></entry><entry><title type="html">Welcome to my new personal space</title><link href="https://andriotisp.github.io/blog/2021/start/" rel="alternate" type="text/html" title="Welcome to my new personal space" /><published>2021-10-23T12:00:00+00:00</published><updated>2021-10-23T12:00:00+00:00</updated><id>https://andriotisp.github.io/blog/2021/start</id><content type="html" xml:base="https://andriotisp.github.io/blog/2021/start/"><![CDATA[<p>Theros: /ˈθe.ɾos/, is a Greek world for “summer”. <br />I like to use it also as a nickname. <br /></p>
+
+<p>This site is my first attempt to use <a href="http://jekyllrb.com">jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="Welcome" /><summary type="html"><![CDATA[My first (test) post in the blog]]></summary></entry></feed>
